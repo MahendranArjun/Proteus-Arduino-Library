@@ -1,0 +1,3935 @@
+DEVICE LIBRARY   d          ARDUINO MEGA1280                                                ,T ¯Õ>QõË      ARDUINO MEGA2560 R3                                             <, Õ>QiŽ      ARDUINO UNO R3                                                  Û XÕ>Q{°                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      C)  l  J     3  .      @   8   "    Àž  t‘  t‘ ÈÈª kCOMPONENT  <ºÿˆL¸ÿ    ðf Øv 0   4                     $MKRORIGIN          @   8   "    Àž  hgg  hgg ÈÈª kCOMPONENT ÈË¨ÿ¨
+     € P! @   8   "    Àž           ÈÈª kCOMPONENT @|²ÿHÍÇÿ     A À€ @   8   "    Àž           ÈÈª kCOMPONENT ŸìÿŸìÿ    àÁ& °á" <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  >Ùÿh 8.Ûÿ81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT 8.Ûÿ81 HÐ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT HÐ 81 `À h l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @ðÿh     
+    ¦ À Default Font                       PWM <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   h ¨
+ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¨
+ 81 @‚. 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. 81 pb2 h <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Ð": è<  B6 ¸28 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ¸28  B6 Q u   m   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € h     
+    ¦ À Default Font                       COMUNICATION p   h   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6   „  
+ Èª ¦ À Default Font                     É DIGITAL <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ð  B6 @ðÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 @ðÿàÁ& PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& PÝÿàÁ& 0ÝÅÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& 0ÝÅÿ¢*  ýÁÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ˜ñ   >Ùÿ€ PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € PÝÿÈÎæÿPÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÎæÿPÝÿ˜îâÿ >Ùÿr   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT èþÿ€þàÿ    
+    ¦ À Default Font                       ANALOG IN s   k   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT             
+ Èªˆ¶ À Default Font                     É ATMEGA1280 @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT à¾èÿ(îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿð` |ü  0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð` (îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿŸìÿ|ü  0à € ‡      "    Àž   Šð  ÈÈª ÈÈª {COMPONENT  A  A     
+ )0à À Default Font                       microcontrolandos.blogspot.com k   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   ø±( „  
+   0à À Default Font                       TX l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  A °á" „  
+   0à À Default Font                       TX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € @‚. „  
+   0à À Default Font                       TX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& ø±( „  
+   0à À Default Font                       TX1 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. ¢* „  
+   0à À Default Font                       SDA l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT pb2 ¢* „  
+   0à À Default Font                       SCL k   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT À€ ÈÑ$ „  
+   0à À Default Font                       RX l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT P! ÈÑ$ „  
+   0à À Default Font                       RX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @‚. „  
+   0à À Default Font                       RX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¢* ø±( „  
+   0à À Default Font                       RX1 @   8   "    Àž  îÑ  îÑ ÈÈª kCOMPONENT P·ÐÿHÍÇÿ    ¸–  Ú
+ @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT À}Ñÿ 
+Óÿ    Ø	 ¨) @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT À}Ñÿh@Æÿ     ¦ ¨) @   8   "    Àž  îÑ  îÑ ÈÈª kCOMPONENT èÚØÿHÍÇÿ    ¸–  Ú
+ @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT X¡Ùÿ 
+Óÿ    Ø	 ¨) @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT X¡Ùÿh@Æÿ     ¦ ¨)   pb2 `ÃE „ $PINDEFAULT PD0/SCL/INT0 21   @‚. `ÃE „ $PINDEFAULT PD1/SDA/INT1 20   ¢* `ÃE „ $PINDEFAULT PD2/RXD1/INT2 19   àÁ& `ÃE „ $PINDEFAULT PD3/TXD1/INT3 18   °á" `ÃE „ $PINDEFAULT PH0/RXD2 17   € `ÃE „ $PINDEFAULT PH1/TXD2 16   P! `ÃE „ $PINDEFAULT PJ0/RXD3/PCINT9 15    A `ÃE „ $PINDEFAULT PJ1/TXD3/PCINT10 14   À€ `ÃE „ $PINDEFAULT PE0/RXD0/PCINT8 0     `ÃE „ $PINDEFAULT PE1/TXD0/PDO 1   `À `ÃE „ $PINDEFAULT PE4/OC3B/INT4 2   0à `ÃE „ $PINDEFAULT PE5/OC3C/INT5 3       `ÃE „ $PINDEFAULT PG5/OC0B 4   Ðüÿ`ÃE „ $PINDEFAULT PE3/OC3A/AIN1 5    ?øÿ`ÃE „ $PINDEFAULT PH3/OC4A 6   p_ôÿ`ÃE „ $PINDEFAULT PH4/OC4B 7   Ÿìÿ`ÃE „ $PINDEFAULT PH5/OC4C 8   à¾èÿ`ÃE „ $PINDEFAULT PH6/OC2B 9   °Þäÿ`ÃE „ $PINDEFAULT PB4/OC2A/PCINT4 10   €þàÿ`ÃE „ $PINDEFAULT PB5/OC1A/PCINT5 11   PÝÿ`ÃE „ $PINDEFAULT PB6/OC1B/PCINT6 12    >Ùÿ`ÃE „ $PINDEFAULT PB7/OC0A/OC1C/PCINT7 13   À}Ñÿ`ÃE |ü  $PINDEFAULT AREF 98   £I è<    $PINDEFAULT PA0/AD0 22   £I ¸28    $PINDEFAULT PA1/AD1 23   £I ˆR4    $PINDEFAULT PA2/AD2 24   £I Xr0    $PINDEFAULT PA3/AD3 25   £I (’,    $PINDEFAULT PA4/AD4 26   £I ø±(    $PINDEFAULT PA5/AD5 27   £I ÈÑ$    $PINDEFAULT PA6/AD6 28   £I ˜ñ     $PINDEFAULT PA7/AD7 29   £I 81    $PINDEFAULT PC6/A14 31   £I Q    $PINDEFAULT PC5/A13 32   £I Øp    $PINDEFAULT PC4/A12 33   £I ¨
+    $PINDEFAULT PC3/A11 34   £I x°	    $PINDEFAULT PC2/A10 35   £I HÐ    $PINDEFAULT PC1/A9 36   £I ð    $PINDEFAULT PC0/A8 37   £I èþÿ   $PINDEFAULT PD7/T0 38   £I ¸/úÿ   $PINDEFAULT PG2/ALE 39   £I ˆOöÿ   $PINDEFAULT PG1/$RD$ 40   £I Xoòÿ   $PINDEFAULT PG0/$WR$ 41   £I (îÿ   $PINDEFAULT PL7 42   £I ø®êÿ   $PINDEFAULT PL6 43   £I ÈÎæÿ   $PINDEFAULT PL5/OC5C 44   £I ˜îâÿ   $PINDEFAULT PL4/OC5B 45   £I hßÿ   $PINDEFAULT PL3/OC5A 46   £I 8.Ûÿ   $PINDEFAULT PL2/T5 47   £I N×ÿ   $PINDEFAULT PL1/ICP5 48   £I ØmÓÿ   $PINDEFAULT PL0/ICP4 49   £I ¨Ïÿ   $PINDEFAULT PB3/MISO/PCINT3 50   £I x­Ëÿ   $PINDEFAULT PB2/MOSI/PCINT2 51   £I HÍÇÿ   $PINDEFAULT PB1/SCK/PCINT1 52   £I íÃÿ   $PINDEFAULT PB0/$SS$/PCINT0 53   ˜ñ  ˆL¸ÿ|ü $PINDEFAULT PK7/ADC15/PCINT23 A15   h ˆL¸ÿ|ü $PINDEFAULT PK6/ADC14/PCINT22 A14   81 ˆL¸ÿ|ü $PINDEFAULT PK5/ADC13/PCINT21 A13   Q ˆL¸ÿ|ü $PINDEFAULT PK4/ADC12/PCINT20 A12   Øp ˆL¸ÿ|ü $PINDEFAULT PK3/ADC11/PCINT19 A11   ¨
+ ˆL¸ÿ|ü $PINDEFAULT PK2/ADC10/PCINT18 A10   x°	 ˆL¸ÿ|ü $PINDEFAULT PK1/ADC9/PCINT17 A9   HÐ ˆL¸ÿ|ü $PINDEFAULT PK0/ADC8/PCINT16 A8   XoòÿˆL¸ÿ|ü $PINDEFAULT PF7/ADC7/TDI A7   ˆOöÿˆL¸ÿ|ü $PINDEFAULT PF6/ADC6/TDO A6   ¸/úÿˆL¸ÿ|ü $PINDEFAULT PF5/ADC5/TMS A5   èþÿˆL¸ÿ|ü $PINDEFAULT PF4/ADC4/TCK A4   (îÿˆL¸ÿ|ü $PINDEFAULT PF3/ADC3 A3   ø®êÿˆL¸ÿ|ü $PINDEFAULT PF2/ADC2 A2   ÈÎæÿˆL¸ÿ|ü $PINDEFAULT PF1/ADC1 A1   ˜îâÿˆL¸ÿ|ü $PINDEFAULT PF0/ADC0 A0   ¨ÏÿˆL¸ÿ„ $PINDEFAULT $RESET$ 54   £I h    $PINDEFAULT PC7/A15 30   N×ÿˆL¸ÿ„  $PINDEFAULT VCC 55   8.ÛÿˆL¸ÿ„  $PINDEFAULT GND 56 Ó  {*DEVICE}
+{PREFIX=DUINO}
+{*PROPDEFS}
+{BLOG="BLOG ( Direitos Autorais )",READONLY STRING}
+{PRIMITIVE="Primitive Type",HIDDEN STRING}
+{MODDLL="VSM Model DLL",HIDDEN STRING}
+{ITFMOD="Interface Model",HIDDEN STRING}
+{PROGRAM="PROGRAM FILE",FILENAME,FALSE,,HEX, UBROF, COFF, ELF or OBJ Files/*.hex;*.d90;*.cof;*.elf;*.obj}
+{TRACE_DEFAULT="Default Tracemode",HIDDEN TRACEMODE}
+{TRACE_SETUP="Model Initialization",HIDDEN TRACEMODE}
+{TRACE_LOAD="Program Loader",HIDDEN TRACEMODE}
+{TRACE_CPU="Instruction Execution",HIDDEN TRACEMODE}
+{CODEGEN="Default Build Tool",HIDDEN STRING}
+{CLKDIV8="CLKDIV8 (Divide clock by 8)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKOUT="CKOUT (Clock output)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{WDTON="WDTON (Watchdog timer always on)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{BOOTRST="BOOTRST (Select Reset Vector)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKSEL="CKSEL Fuses",KWDLIST,15,0="(0000) Ext. Clock",2="(0010) Int. RC Osc. 8MHz",3="(0011) Int. 128kHz RC Osc.",4="(0100) Ext. Low-Freq. Crystal",5="(0101) Ext. Low-Freq. Crystal",6="(0110) Full Swing Osc.",7="(0111) Full Swing Osc.",8="(1000) Ext. Crystal 0.4-0.9MHz",9="(1001) Ext. Crystal 0.4-0.9MHz",10="(1010) Ext. Crystal 0.9-3.0MHz",11="(1011) Ext. Crystal 0.9-3.0MHz",12="(1100) Ext. Crystal 3.0-8.0MHz",13="(1101) Ext. Crystal 3.0-8.0MHz",14="(1110) Ext. Crystal 8.0-MHz",15="(1111) Ext. Crystal 8.0-MHz"}
+{BOOTSZ="Boot Loader Size",KWDLIST,4,0="(00) 4096 words. Starts at 0x1F000",1="(01) 2408 words. Starts at 0x1F800",2="(10) 1024 words. Starts at 0x1FC00",3="(11) 512 words. Starts at 0x1FE00"}
+{SUT="SUT Fuses",KWDLIST,4,0="(00)",1="(01)",2="(10)",3="(11)"}
+{MODDATA="Persistent Model Data",HIDDEN STRING}
+{DISASM_BIN="Disassemble Binary Code",ADVANCED YESNO}
+{TRACE_SLEEP="Sleep/Wake Events",HIDDEN STRING}
+{TRACE_INTERRUPT="Interrupt Events",HIDDEN STRING}
+{TRACE_MEMORY="Memory Access",HIDDEN STRING}
+{CLOCK="Clock Frequency",FLOAT,PNZ}
+{TRACE_ADC="ADC Module",HIDDEN TRACEMODE}
+{TRACE_ACO="Analog Comparator Module",HIDDEN TRACEMODE}
+{TRACE_EEPROM="EEPROM Module",HIDDEN TRACEMODE}
+{TRACE_EXTERNAL_INTERRUPT="External Interrupts Module",HIDDEN TRACEMODE}
+{TRACE_PORTA="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTB="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTC="Port C Module",HIDDEN TRACEMODE}
+{TRACE_PORTD="Port D Module",HIDDEN TRACEMODE}
+{TRACE_PORTE="Port E Module",HIDDEN TRACEMODE}
+{TRACE_PORTF="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTG="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTH="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTJ="Port J Module",HIDDEN TRACEMODE}
+{TRACE_PORTK="Port K Module",HIDDEN TRACEMODE}
+{TRACE_PORTL="Port L Module",HIDDEN TRACEMODE}
+{TRACE_SPI="SPI Module",HIDDEN TRACEMODE}
+{TRACE_TIMER0="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER1="Timer 1 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER2="Timer 2 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER3="Timer 3 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER4="Timer 4 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER5="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TWI="TWI Module",HIDDEN TRACEMODE}
+{TRACE_USART0="USART 0 Module",HIDDEN TRACEMODE}
+{TRACE_USART1="USART 1 Module",HIDDEN TRACEMODE}
+{TRACE_USART2="USART 2 Module",HIDDEN TRACEMODE}
+{TRACE_USART3="USART 3 Module",HIDDEN TRACEMODE}
+{TRACE_WATCHDOG="Watchdog Timer Module",HIDDEN TRACEMODE}
+{MODFILE="Initial Contents Of Data EEPROM",ADVANCED FILENAME,FALSE,,Binary Image Files/*.bin}
+{*INDEX}
+{CAT=Emulator}
+{SUBCAT=ATMEGA}
+{MFR=}
+{DESC=Arduino MEGA (ATmega1280)}
+{*COMPONENT}
+{BLOG=microcontrolandos.blogspot.com}
+{PRIMITIVE=DIGITAL,ATMEGA1280}
+{MODDLL=AVR2.DLL}
+{ITFMOD=AVR}
+{TRACE_DEFAULT=1}
+{CODEGEN=AVRASM2}
+{CLKDIV8=1}
+{CKOUT=1}
+{WDTON=1}
+{BOOTRST=1}
+{CKSEL=0}
+{BOOTSZ=0}
+{SUT=0}
+{MODDATA=4096,255}
+{DISASM_BIN=0}
+{CLOCK=16MHz}
+ 3(  `  J     '
+  )      @   8   "    Àž  t‘  t‘ ÈÈª kCOMPONENT  <ºÿˆL¸ÿ    ðf Øv 0   4                     $MKRORIGIN          @   8   "    Àž  hgg  hgg ÈÈª kCOMPONENT ÈË¨ÿ¨
+     € P! @   8   "    Àž           ÈÈª kCOMPONENT @|²ÿHÍÇÿ    P! À€ @   8   "    Àž           ÈÈª kCOMPONENT ŸìÿŸìÿ    àÁ& °á" <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  >Ùÿh 8.Ûÿ81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT 8.Ûÿ81 HÐ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT HÐ 81 `À h l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @ðÿh     
+    ¦ À Default Font                       PWM <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   h ¨
+ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¨
+ 81 @‚. 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. 81 pb2 h <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Ð": è<  B6 ¸28 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ¸28  B6 Q u   m   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € h     
+    ¦ À Default Font                       COMUNICATION p   h   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6   „  
+ Èª ¦ À Default Font                     É DIGITAL <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ð  B6 @ðÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 @ðÿàÁ& PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& PÝÿàÁ& 0ÝÅÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& 0ÝÅÿ¢*  ýÁÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ˜ñ   >Ùÿ€ PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € PÝÿÈÎæÿPÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÎæÿPÝÿ˜îâÿ >Ùÿr   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT èþÿ€þàÿ    
+    ¦ À Default Font                       ANALOG IN s   k   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT             
+ Èªˆ¶ À Default Font                     É ATMEGA2560 r   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT     èþÿ    
+   ˆ¶ À Default Font                       16AU 1126 @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT à¾èÿ(îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿð` |ü  0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð` (îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿŸìÿ|ü  0à € ‡      "    Àž   Šð  ÈÈª ÈÈª {COMPONENT  A  A     
+ )0à À Default Font                       microcontrolandos.blogspot.com l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   ø±( „  
+   0à À Default Font                       TX0 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  A °á" „  
+   0à À Default Font                       TX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € @‚. „  
+   0à À Default Font                       TX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& ø±( „  
+   0à À Default Font                       TX1 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. ¢* „  
+   0à À Default Font                       SDA l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT pb2 ¢* „  
+   0à À Default Font                       SCL l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT À€ ÈÑ$ „  
+   0à À Default Font                       RX0 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT P! ÈÑ$ „  
+   0à À Default Font                       RX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @‚. „  
+   0à À Default Font                       RX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¢* ø±( „  
+   0à À Default Font                       RX1   pb2 `ÃE „ $PINDEFAULT PD0/SCL/INT0 21   @‚. `ÃE „ $PINDEFAULT PD1/SDA/INT1 20   ¢* `ÃE „ $PINDEFAULT PD2/RXD1/INT2 19   àÁ& `ÃE „ $PINDEFAULT PD3/TXD1/INT3 18   °á" `ÃE „ $PINDEFAULT PH0/RXD2 17   € `ÃE „ $PINDEFAULT PH1/TXD2 16   P! `ÃE „ $PINDEFAULT PJ0/RXD3/PCINT9 15    A `ÃE „ $PINDEFAULT PJ1/TXD3/PCINT10 14   À€ `ÃE „ $PINDEFAULT PE0/RXD0/PCINT8 0     `ÃE „ $PINDEFAULT PE1/TXD0/PDO 1   `À `ÃE „ $PINDEFAULT PE4/OC3B/INT4 2   0à `ÃE „ $PINDEFAULT PE5/OC3C/INT5 3       `ÃE „ $PINDEFAULT PG5/OC0B 4   Ðüÿ`ÃE „ $PINDEFAULT PE3/OC3A/AIN1 5    ?øÿ`ÃE „ $PINDEFAULT PH3/OC4A 6   p_ôÿ`ÃE „ $PINDEFAULT PH4/OC4B 7   Ÿìÿ`ÃE „ $PINDEFAULT PH5/OC4C 8   à¾èÿ`ÃE „ $PINDEFAULT PH6/OC2B 9   °Þäÿ`ÃE „ $PINDEFAULT PB4/OC2A/PCINT4 10   €þàÿ`ÃE „ $PINDEFAULT PB5/OC1A/PCINT5 11   PÝÿ`ÃE „ $PINDEFAULT PB6/OC1B/PCINT6 12    >Ùÿ`ÃE „ $PINDEFAULT PB7/OC0A/OC1C/PCINT7 13   À}Ñÿ`ÃE |ü  $PINDEFAULT AREF 98   £I è<    $PINDEFAULT PA0/AD0 22   £I ¸28    $PINDEFAULT PA1/AD1 23   £I ˆR4    $PINDEFAULT PA2/AD2 24   £I Xr0    $PINDEFAULT PA3/AD3 25   £I (’,    $PINDEFAULT PA4/AD4 26   £I ø±(    $PINDEFAULT PA5/AD5 27   £I ÈÑ$    $PINDEFAULT PA6/AD6 28   £I ˜ñ     $PINDEFAULT PA7/AD7 29   £I 81    $PINDEFAULT PC6/A14 31   £I Q    $PINDEFAULT PC5/A13 32   £I Øp    $PINDEFAULT PC4/A12 33   £I ¨
+    $PINDEFAULT PC3/A11 34   £I x°	    $PINDEFAULT PC2/A10 35   £I HÐ    $PINDEFAULT PC1/A9 36   £I ð    $PINDEFAULT PC0/A8 37   £I èþÿ   $PINDEFAULT PD7/T0 38   £I ¸/úÿ   $PINDEFAULT PG2/ALE 39   £I ˆOöÿ   $PINDEFAULT PG1/$RD$ 40   £I Xoòÿ   $PINDEFAULT PG0/$WR$ 41   £I (îÿ   $PINDEFAULT PL7 42   £I ø®êÿ   $PINDEFAULT PL6 43   £I ÈÎæÿ   $PINDEFAULT PL5/OC5C 44   £I ˜îâÿ   $PINDEFAULT PL4/OC5B 45   £I hßÿ   $PINDEFAULT PL3/OC5A 46   £I 8.Ûÿ   $PINDEFAULT PL2/T5 47   £I N×ÿ   $PINDEFAULT PL1/ICP5 48   £I ØmÓÿ   $PINDEFAULT PL0/ICP4 49   £I ¨Ïÿ   $PINDEFAULT PB3/MISO/PCINT3 50   £I x­Ëÿ   $PINDEFAULT PB2/MOSI/PCINT2 51   £I HÍÇÿ   $PINDEFAULT PB1/SCK/PCINT1 52   £I íÃÿ   $PINDEFAULT PB0/$SS$/PCINT0 53   ˜ñ  ˆL¸ÿ|ü $PINDEFAULT PK7/ADC15/PCINT23 A15   h ˆL¸ÿ|ü $PINDEFAULT PK6/ADC14/PCINT22 A14   81 ˆL¸ÿ|ü $PINDEFAULT PK5/ADC13/PCINT21 A13   Q ˆL¸ÿ|ü $PINDEFAULT PK4/ADC12/PCINT20 A12   Øp ˆL¸ÿ|ü $PINDEFAULT PK3/ADC11/PCINT19 A11   ¨
+ ˆL¸ÿ|ü $PINDEFAULT PK2/ADC10/PCINT18 A10   x°	 ˆL¸ÿ|ü $PINDEFAULT PK1/ADC9/PCINT17 A9   HÐ ˆL¸ÿ|ü $PINDEFAULT PK0/ADC8/PCINT16 A8   XoòÿˆL¸ÿ|ü $PINDEFAULT PF7/ADC7/TDI A7   ˆOöÿˆL¸ÿ|ü $PINDEFAULT PF6/ADC6/TDO A6   ¸/úÿˆL¸ÿ|ü $PINDEFAULT PF5/ADC5/TMS A5   èþÿˆL¸ÿ|ü $PINDEFAULT PF4/ADC4/TCK A4   (îÿˆL¸ÿ|ü $PINDEFAULT PF3/ADC3 A3   ø®êÿˆL¸ÿ|ü $PINDEFAULT PF2/ADC2 A2   ÈÎæÿˆL¸ÿ|ü $PINDEFAULT PF1/ADC1 A1   ˜îâÿˆL¸ÿ|ü $PINDEFAULT PF0/ADC0 A0   ¨ÏÿˆL¸ÿ„ $PINDEFAULT $RESET$ 54   £I h    $PINDEFAULT PC7/A15 30   N×ÿˆL¸ÿ„  $PINDEFAULT VCC 55   8.ÛÿˆL¸ÿ„  $PINDEFAULT GND 56 Ï  {*DEVICE}
+{PREFIX=DUINO}
+{*PROPDEFS}
+{BLOG="BLOG ( Direitos Autorais )",READONLY STRING}
+{PRIMITIVE="Primitive Type",HIDDEN STRING}
+{MODDLL="VSM Model DLL",HIDDEN STRING}
+{ITFMOD="Interface Model",HIDDEN STRING}
+{PROGRAM="PROGRAM FILE",FILENAME,FALSE,,HEX, UBROF, COFF, ELF or OBJ Files/*.hex;*.d90;*.cof;*.elf;*.obj}
+{TRACE_DEFAULT="Default Tracemode",HIDDEN TRACEMODE}
+{TRACE_SETUP="Model Initialization",HIDDEN TRACEMODE}
+{TRACE_LOAD="Program Loader",HIDDEN TRACEMODE}
+{TRACE_CPU="Instruction Execution",HIDDEN TRACEMODE}
+{CODEGEN="Default Build Tool",HIDDEN STRING}
+{CLKDIV8="CLKDIV8 (Divide clock by 8)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKOUT="CKOUT (Clock output)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{WDTON="WDTON (Watchdog timer always on)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{BOOTRST="BOOTRST (Select Reset Vector)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKSEL="CKSEL Fuses",KWDLIST,15,0="(0000) Ext. Clock",2="(0010) Int. RC Osc. 8MHz",3="(0011) Int. 128kHz RC Osc.",4="(0100) Ext. Low-Freq. Crystal",5="(0101) Ext. Low-Freq. Crystal",6="(0110) Full Swing Osc.",7="(0111) Full Swing Osc.",8="(1000) Ext. Crystal 0.4-0.9MHz",9="(1001) Ext. Crystal 0.4-0.9MHz",10="(1010) Ext. Crystal 0.9-3.0MHz",11="(1011) Ext. Crystal 0.9-3.0MHz",12="(1100) Ext. Crystal 3.0-8.0MHz",13="(1101) Ext. Crystal 3.0-8.0MHz",14="(1110) Ext. Crystal 8.0-MHz",15="(1111) Ext. Crystal 8.0-MHz"}
+{BOOTSZ="Boot Loader Size",KWDLIST,4,0="(00) 4096 words. Starts at 0x1F000",1="(01) 2408 words. Starts at 0x1F800",2="(10) 1024 words. Starts at 0x1FC00",3="(11) 512 words. Starts at 0x1FE00"}
+{SUT="SUT Fuses",KWDLIST,4,0="(00)",1="(01)",2="(10)",3="(11)"}
+{MODDATA="Persistent Model Data",HIDDEN STRING}
+{DISASM_BIN="Disassemble Binary Code",ADVANCED YESNO}
+{TRACE_SLEEP="Sleep/Wake Events",HIDDEN STRING}
+{TRACE_INTERRUPT="Interrupt Events",HIDDEN STRING}
+{TRACE_MEMORY="Memory Access",HIDDEN STRING}
+{CLOCK="Clock Frequency",FLOAT,PNZ}
+{TRACE_ADC="ADC Module",HIDDEN TRACEMODE}
+{TRACE_ACO="Analog Comparator Module",HIDDEN TRACEMODE}
+{TRACE_EEPROM="EEPROM Module",HIDDEN TRACEMODE}
+{TRACE_EXTERNAL_INTERRUPT="External Interrupts Module",HIDDEN TRACEMODE}
+{TRACE_PORTA="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTB="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTC="Port C Module",HIDDEN TRACEMODE}
+{TRACE_PORTD="Port D Module",HIDDEN TRACEMODE}
+{TRACE_PORTE="Port E Module",HIDDEN TRACEMODE}
+{TRACE_PORTF="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTG="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTH="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTJ="Port J Module",HIDDEN TRACEMODE}
+{TRACE_PORTK="Port K Module",HIDDEN TRACEMODE}
+{TRACE_PORTL="Port L Module",HIDDEN TRACEMODE}
+{TRACE_SPI="SPI Module",HIDDEN TRACEMODE}
+{TRACE_TIMER0="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER1="Timer 1 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER2="Timer 2 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER3="Timer 3 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER4="Timer 4 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER5="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TWI="TWI Module",HIDDEN TRACEMODE}
+{TRACE_USART0="USART 0 Module",HIDDEN TRACEMODE}
+{TRACE_USART1="USART 1 Module",HIDDEN TRACEMODE}
+{TRACE_USART2="USART 2 Module",HIDDEN TRACEMODE}
+{TRACE_USART3="USART 3 Module",HIDDEN TRACEMODE}
+{TRACE_WATCHDOG="Watchdog Timer Module",HIDDEN TRACEMODE}
+{MODFILE="Initial Contents Of Data EEPROM",ADVANCED FILENAME,FALSE,,Binary Image Files/*.bin}
+{*INDEX}
+{CAT=Emulator}
+{SUBCAT=ATMEGA}
+{MFR=}
+{DESC=Arduino MEGA2560 Rev3}
+{*COMPONENT}
+{BLOG=microcontrolandos.blogspot.com}
+{PRIMITIVE=DIGITAL,ATMEGA2560}
+{MODDLL=AVR2.DLL}
+{ITFMOD=AVR}
+{TRACE_DEFAULT=1}
+{CODEGEN=AVRASM2}
+{CLKDIV8=1}
+{CKOUT=1}
+{WDTON=1}
+{BOOTRST=1}
+{CKSEL=0}
+{BOOTSZ=0}
+{SUT=0}
+{MODDATA=4096,255}
+{DISASM_BIN=0}
+{CLOCK=16MHz}
+ ($  Ç       ù  6      t   `   "    Àž  t‘  t‘ ÈÈª kCOMPONENT    ¢*  >Ùÿ@‚.  A   ¢*  A @‚. ð` @‚. PÝÿ¢*  >Ùÿ¢*  A  @   8   "    Àž  t‘  t‘ ÈÈª kCOMPONENT N×ÿð]Õÿ    TS  DU 0   4                     $MKRORIGIN          @   8   "    Àž  hgg  hgg ÈÈª kCOMPONENT x­Ëÿ       A ð` @   8   "    Àž           ÈÈª kCOMPONENT À}Ñÿ8.Ûÿ     A ¨
+ @   8   "    Àž           ÈÈª kCOMPONENT @ðÿˆOöÿ    ¸28 Øp <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Xoòÿ¨
+ ÈÑ$ ¨
+ w   o   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Q Øp     
+ Èª ¦ À Default Font                     É DIGITAL (~PWM) <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @ðÿð` @ðÿr   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ð` ø®êÿ    
+    ¦ À Default Font                       ANALOG IN v   n   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¨
+       
+ Èªˆ¶ À Default Font                     É ATMEGA328P-PU m   e   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT `À èþÿ  
+   ˆ¶ À Default Font                       1121 @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Xoòÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˆOöÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¸/úÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT èþÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT HÐ x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT x°	 x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¨
+ x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Øp x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Q x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT 81 x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT h x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˜ñ  x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ÈÑ$ x°	     ð èþÿj   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  ?øÿÀ€ „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÐüÿØp „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT      A „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT À€ 81 „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ð`  A „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT P! 81 „  
+ (hC À Default Font                     ¡ ~ ‡      "    Àž   …è  ÈÈª ÈÈª {COMPONENT @ðÿ(îÿ    
+ )ø| À Default Font                       microcontrolandos.blogspot.com <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Xoòÿ¨
+ @ðÿÀ€ <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÑ$ ¨
+ àÁ& À€ <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ð` @ðÿØp (îÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @ðÿÈÑ$ @ðÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÑ$ @ðÿàÁ& (îÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT XoòÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˆOöÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¸/úÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT èþÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT HÐ ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT x°	 ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¨
+ ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Øp ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Q ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT 81 ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT h ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˜ñ  ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ÈÑ$ ˆOöÿ    ð èþÿk   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á"  A „  
+   0à À Default Font                       TX k   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ&  A „  
+   0à À Default Font                       RX   àÁ& ¢* „ $PINDEFAULT PD0/RXD 0   °á" ¢* „ $PINDEFAULT PD1/TXD 1   € ¢* „ $PINDEFAULT PD2/INT0 2   P! ¢* „ $PINDEFAULT PD3/INT1 3    A ¢* „ $PINDEFAULT PD4/T0/XCK 4   ð` ¢* „ $PINDEFAULT PD5/T1 5   À€ ¢* „ $PINDEFAULT PD6/AIN0 6     ¢* „ $PINDEFAULT PD7/AIN1 7   0à ¢* „ $PINDEFAULT PB0/ICP1/CLKO 8       ¢* „ $PINDEFAULT PB1/OC1A 9   Ðüÿ¢* „ $PINDEFAULT PB2/$SS$/OC1B 10    ?øÿ¢* „ $PINDEFAULT PB3/MOSI/OC2A 11   p_ôÿ¢* „ $PINDEFAULT PB4/MISO 12   @ðÿ¢* „ $PINDEFAULT PB5/SCK 13   à¾èÿ¢* |ü  $PINDEFAULT AREF 98   ÈÑ$ ð]Õÿ|ü $PINDEFAULT PC5/ADC5/SCL A5   ˜ñ  ð]Õÿ|ü $PINDEFAULT PC4/ADC4/SDA A4   h ð]Õÿ|ü $PINDEFAULT PC3/ADC3 A3   81 ð]Õÿ|ü $PINDEFAULT PC2/ADC2 A2   Q ð]Õÿ|ü $PINDEFAULT PC1/ADC1 A1   Øp ð]Õÿ|ü $PINDEFAULT PC0/ADC0 A0   ˆOöÿð]Õÿ„ $PINDEFAULT $RESET$ RESET   èþÿð]Õÿ„  $PINDEFAULT VCC 55   ð ð]Õÿ„  $PINDEFAULT GND 56 ]  {*DEVICE}
+{PREFIX=DUINO}
+{*PROPDEFS}
+{BLOG="BLOG ( Direitos Autorais )",READONLY STRING}
+{PROGRAM="Program File",FILENAME,FALSE,,HEX, UBROF, COFF, ELF or OBJ Files/*.hex;*.d90;*.cof;*.elf;*.obj}
+{PRIMITIVE="Primitive Type",HIDDEN STRING}
+{MODDLL="VSM Model DLL",HIDDEN STRING}
+{ITFMOD="Interface Model",HIDDEN STRING}
+{TRACE_DEFAULT="TRACE_DEFAULT",HIDDEN TRACEMODE}
+{CODEGEN="CODEGEN",HIDDEN STRING}
+{RSTDISBL="RSTDISBL (Disable reset)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{WDTON="WDTON (Enable watchdog)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{BOOTRST="BOOTRST (Select Reset Vector)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKSEL="CKSEL Fuses",KWDLIST,15,0="(0000) Ext. Clock",2="(0010) Int. RC Osc. 8MHz",3="(0011) Int. RC Osc. 128kHz",4="(0100) Ext. Low-Freq. Crystal",5="(0101) Ext. Low-Freq. Crystal",6="(0110) Ext. Full-swing Crystal",7="(0111) Ext. Full-swing Crystal",8="(1000) Ext. Crystal 0.4-0.9MHz",9="(1001) Ext. Crystal 0.4-0.9MHz",10="(1010) Ext. Crystal 0.9-3.0MHz",11="(1011) Ext. Crystal 0.9-3.0MHz",12="(1100) Ext. Crystal 3.0-8.0MHz",13="(1101) Ext. Crystal 3.0-8.0MHz",14="(1110) Ext. Crystal 8.0-MHz",15="(1111) Ext. Crystal 8.0-MHz"}
+{BOOTSZ="Boot Loader Size",KWDLIST,4,0="(00) 1024 words. Starts at 0x1C00",1="(01) 512 words. Starts at 0x1E00",2="(10) 256 words. Starts at 0x1F00",3="(11) 128 words. Starts at 0x1F80"}
+{SUT="SUT Fuses",KWDLIST,4,0="(00)",1="(01)",2="(10)",3="(11)"}
+{MODDATA="Persistent Model Data",HIDDEN STRING}
+{DISASM_BIN="Disassemble Binary Code",ADVANCED YESNO}
+{TRACE_SETUP="TRACE_SETUP",HIDDEN TRACEMODE}
+{TRACE_LOAD="TRACE_LOAD",HIDDEN TRACEMODE}
+{TRACE_SLEEP="TRACE_SLEEP",HIDDEN TRACEMODE}
+{TRACE_INTERRUPT="TRACE_INTERRUPT",HIDDEN TRACEMODE}
+{TRACE_CPU="TRACE_CPU",HIDDEN TRACEMODE}
+{TRACE_MEMORY="TRACE_MEMORY",HIDDEN TRACEMODE}
+{CLOCK="Clock Frequence",FLOAT,PNZ}
+{TRACE_ADC="TRACE_ADC",HIDDEN TRACEMODE}
+{TRACE_ACO="TRACE_ACO",HIDDEN TRACEMODE}
+{TRACE_EEPROM="TRACE_EEPROM",HIDDEN TRACEMODE}
+{MODDATAFILE="Initial Contents Of Data EEPROM",ADVANCED FILENAME,FALSE,,Binary Image Files/*.bin}
+{TRACE_EXTERNAL_INTERRUPT="TRACE_EXTERNAL_INTERRUPT",HIDDEN TRACEMODE}
+{TRACE_PORTB="TRACE_PORTB",HIDDEN TRACEMODE}
+{TRACE_PORTC="TRACE_PORTC",HIDDEN TRACEMODE}
+{TRACE_PORTD="TRACE_PORTD",HIDDEN TRACEMODE}
+{TRACE_SPI="TRACE_SPI",HIDDEN TRACEMODE}
+{TRACE_TIMER0="TRACE_TIMER0",HIDDEN TRACEMODE}
+{TRACE_TIMER1="TRACE_TIMER1",HIDDEN TRACEMODE}
+{TRACE_TIMER2="TRACE_TIMER2",HIDDEN TRACEMODE}
+{TRACE_TWI="TRACE_TWI",HIDDEN TRACEMODE}
+{TRACE_USART0="TRACE_USART",HIDDEN TRACEMODE}
+{TRACE_WATCHDOG="TRACE_WATCHDOG",HIDDEN TRACEMODE}
+{NAME="NAME",STRING}
+{CLKDIV8="CLKDIV8 (Divide clock by 8)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKOUT="CKOUT (Clock output)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{*INDEX}
+{CAT=Emulator}
+{SUBCAT=ATMEGA}
+{MFR=}
+{DESC=Arduino Uno R3}
+{*COMPONENT}
+{BLOG=microcontrolandos.blogspot.com}
+{PRIMITIVE=DIGITAL,ATMEGA328P}
+{MODDLL=AVR2.DLL}
+{ITFMOD=AVR}
+{CODEGEN=AVRASM2}
+{RSTDISBL=1}
+{WDTON=1}
+{BOOTRST=1}
+{CKSEL=0}
+{BOOTSZ=0}
+{SUT=2}
+{MODDATA=1024,255}
+{DISASM_BIN=0}
+{CLOCK=16MHz}
+{NAME=ARDUINO UNO REV3}
+{CLKDIV8=1}
+{CKOUT=1}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ …#  @       r  5      t   `   "    Àž  t‘  t‘ ÈÈª kCOMPONENT    ¢*  >Ùÿ@‚.  A   ¢*  A @‚. ð` @‚. PÝÿ¢*  >Ùÿ¢*  A  @   8   "    Àž  t‘  t‘ ÈÈª kCOMPONENT N×ÿð]Õÿ    TS  DU 0   4                     $MKRORIGIN          @   8   "    Àž  hgg  hgg ÈÈª kCOMPONENT x­Ëÿ       A ð` @   8   "    Àž           ÈÈª kCOMPONENT À}Ñÿ8.Ûÿ     A ¨
+ @   8   "    Àž           ÈÈª kCOMPONENT @ðÿˆOöÿ    ¸28 Øp <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Xoòÿ¨
+ ÈÑ$ ¨
+ w   o   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Q Øp     
+ Èª ¦ À Default Font                     É DIGITAL (~PWM) <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @ðÿð` @ðÿr   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ð` ø®êÿ    
+    ¦ À Default Font                       ANALOG IN v   n   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¨
+       
+ Èªˆ¶ À Default Font                     É ATMEGA328P-PU m   e   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT `À èþÿ  
+   ˆ¶ À Default Font                       1121 @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Xoòÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˆOöÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¸/úÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT èþÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT HÐ x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT x°	 x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¨
+ x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Øp x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Q x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT 81 x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT h x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˜ñ  x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ÈÑ$ x°	     ð èþÿj   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  ?øÿÀ€ „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÐüÿØp „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT      A „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT À€ 81 „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ð`  A „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT P! 81 „  
+ (hC À Default Font                     ¡ ~ <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Xoòÿ¨
+ @ðÿÀ€ <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÑ$ ¨
+ àÁ& À€ <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ð` @ðÿØp (îÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @ðÿÈÑ$ @ðÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÑ$ @ðÿàÁ& (îÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT XoòÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˆOöÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¸/úÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT èþÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT HÐ ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT x°	 ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¨
+ ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Øp ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Q ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT 81 ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT h ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˜ñ  ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ÈÑ$ ˆOöÿ    ð èþÿk   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á"  A „  
+   0à À Default Font                       TX k   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ&  A „  
+   0à À Default Font                       RX   àÁ& ¢* „ $PINDEFAULT PD0/RXD 0   °á" ¢* „ $PINDEFAULT PD1/TXD 1   € ¢* „ $PINDEFAULT PD2/INT0 2   P! ¢* „ $PINDEFAULT PD3/INT1 3    A ¢* „ $PINDEFAULT PD4/T0/XCK 4   ð` ¢* „ $PINDEFAULT PD5/T1 5   À€ ¢* „ $PINDEFAULT PD6/AIN0 6     ¢* „ $PINDEFAULT PD7/AIN1 7   0à ¢* „ $PINDEFAULT PB0/ICP1/CLKO 8       ¢* „ $PINDEFAULT PB1/OC1A 9   Ðüÿ¢* „ $PINDEFAULT PB2/$SS$/OC1B 10    ?øÿ¢* „ $PINDEFAULT PB3/MOSI/OC2A 11   p_ôÿ¢* „ $PINDEFAULT PB4/MISO 12   @ðÿ¢* „ $PINDEFAULT PB5/SCK 13   à¾èÿ¢* |ü  $PINDEFAULT AREF 98   ÈÑ$ ð]Õÿ|ü $PINDEFAULT PC5/ADC5/SCL A5   ˜ñ  ð]Õÿ|ü $PINDEFAULT PC4/ADC4/SDA A4   h ð]Õÿ|ü $PINDEFAULT PC3/ADC3 A3   81 ð]Õÿ|ü $PINDEFAULT PC2/ADC2 A2   Q ð]Õÿ|ü $PINDEFAULT PC1/ADC1 A1   Øp ð]Õÿ|ü $PINDEFAULT PC0/ADC0 A0   ˆOöÿð]Õÿ„ $PINDEFAULT $RESET$ RESET   èþÿð]Õÿ„  $PINDEFAULT VCC 55   ð ð]Õÿ„  $PINDEFAULT GND 56 A  {*DEVICE}
+{PREFIX=DUINO}
+{*PROPDEFS}
+{ARD="",READONLY STRING}
+{PROGRAM="Program File",FILENAME,FALSE,,HEX, UBROF, COFF, ELF or OBJ Files/*.hex;*.d90;*.cof;*.elf;*.obj}
+{PRIMITIVE="Primitive Type",HIDDEN STRING}
+{MODDLL="VSM Model DLL",HIDDEN STRING}
+{ITFMOD="Interface Model",HIDDEN STRING}
+{TRACE_DEFAULT="TRACE_DEFAULT",HIDDEN TRACEMODE}
+{CODEGEN="CODEGEN",HIDDEN STRING}
+{RSTDISBL="RSTDISBL (Disable reset)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{WDTON="WDTON (Enable watchdog)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{BOOTRST="BOOTRST (Select Reset Vector)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKSEL="CKSEL Fuses",KWDLIST,15,0="(0000) Ext. Clock",2="(0010) Int. RC Osc. 8MHz",3="(0011) Int. RC Osc. 128kHz",4="(0100) Ext. Low-Freq. Crystal",5="(0101) Ext. Low-Freq. Crystal",6="(0110) Ext. Full-swing Crystal",7="(0111) Ext. Full-swing Crystal",8="(1000) Ext. Crystal 0.4-0.9MHz",9="(1001) Ext. Crystal 0.4-0.9MHz",10="(1010) Ext. Crystal 0.9-3.0MHz",11="(1011) Ext. Crystal 0.9-3.0MHz",12="(1100) Ext. Crystal 3.0-8.0MHz",13="(1101) Ext. Crystal 3.0-8.0MHz",14="(1110) Ext. Crystal 8.0-MHz",15="(1111) Ext. Crystal 8.0-MHz"}
+{BOOTSZ="Boot Loader Size",KWDLIST,4,0="(00) 1024 words. Starts at 0x1C00",1="(01) 512 words. Starts at 0x1E00",2="(10) 256 words. Starts at 0x1F00",3="(11) 128 words. Starts at 0x1F80"}
+{SUT="SUT Fuses",KWDLIST,4,0="(00)",1="(01)",2="(10)",3="(11)"}
+{MODDATA="Persistent Model Data",HIDDEN STRING}
+{DISASM_BIN="Disassemble Binary Code",ADVANCED YESNO}
+{TRACE_SETUP="TRACE_SETUP",HIDDEN TRACEMODE}
+{TRACE_LOAD="TRACE_LOAD",HIDDEN TRACEMODE}
+{TRACE_SLEEP="TRACE_SLEEP",HIDDEN TRACEMODE}
+{TRACE_INTERRUPT="TRACE_INTERRUPT",HIDDEN TRACEMODE}
+{TRACE_CPU="TRACE_CPU",HIDDEN TRACEMODE}
+{TRACE_MEMORY="TRACE_MEMORY",HIDDEN TRACEMODE}
+{CLOCK="Clock Frequence",FLOAT,PNZ}
+{TRACE_ADC="TRACE_ADC",HIDDEN TRACEMODE}
+{TRACE_ACO="TRACE_ACO",HIDDEN TRACEMODE}
+{TRACE_EEPROM="TRACE_EEPROM",HIDDEN TRACEMODE}
+{MODDATAFILE="Initial Contents Of Data EEPROM",ADVANCED FILENAME,FALSE,,Binary Image Files/*.bin}
+{TRACE_EXTERNAL_INTERRUPT="TRACE_EXTERNAL_INTERRUPT",HIDDEN TRACEMODE}
+{TRACE_PORTB="TRACE_PORTB",HIDDEN TRACEMODE}
+{TRACE_PORTC="TRACE_PORTC",HIDDEN TRACEMODE}
+{TRACE_PORTD="TRACE_PORTD",HIDDEN TRACEMODE}
+{TRACE_SPI="TRACE_SPI",HIDDEN TRACEMODE}
+{TRACE_TIMER0="TRACE_TIMER0",HIDDEN TRACEMODE}
+{TRACE_TIMER1="TRACE_TIMER1",HIDDEN TRACEMODE}
+{TRACE_TIMER2="TRACE_TIMER2",HIDDEN TRACEMODE}
+{TRACE_TWI="TRACE_TWI",HIDDEN TRACEMODE}
+{TRACE_USART0="TRACE_USART",HIDDEN TRACEMODE}
+{TRACE_WATCHDOG="TRACE_WATCHDOG",HIDDEN TRACEMODE}
+{NAME="NAME",STRING}
+{CLKDIV8="CLKDIV8 (Divide clock by 8)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKOUT="CKOUT (Clock output)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{*INDEX}
+{CAT=Emulator}
+{SUBCAT=ATMEGA}
+{MFR=}
+{DESC=Arduino Uno R3}
+{*COMPONENT}
+{PRIMITIVE=DIGITAL,ATMEGA328P}
+{MODDLL=AVR2.DLL}
+{ITFMOD=AVR}
+{CODEGEN=AVRASM2}
+{RSTDISBL=1}
+{WDTON=1}
+{BOOTRST=1}
+{CKSEL=0}
+{BOOTSZ=0}
+{SUT=2}
+{MODDATA=1024,255}
+{DISASM_BIN=0}
+{CLOCK=16MHz}
+{NAME=ARDUINO UNO REV3}
+{CLKDIV8=1}
+{CKOUT=1}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ARD=microcontrolandos.blogspot.com}
+ ‡(  å  J     ¬
+  -      @   8   "    Àž  t‘  t‘ ÈÈª kCOMPONENT  <ºÿˆL¸ÿ    ðf Øv 0   4                     $MKRORIGIN          @   8   "    Àž  hgg  hgg ÈÈª kCOMPONENT ÈË¨ÿ¨
+     € P! @   8   "    Àž           ÈÈª kCOMPONENT @|²ÿHÍÇÿ     A À€ @   8   "    Àž           ÈÈª kCOMPONENT ŸìÿŸìÿ    àÁ& °á" <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  >Ùÿh 8.Ûÿ81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT 8.Ûÿ81 HÐ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT HÐ 81 `À h l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @ðÿh     
+    ¦ À Default Font                       PWM <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   h ¨
+ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¨
+ 81 @‚. 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. 81 pb2 h <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Ð": è<  B6 ¸28 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ¸28  B6 Q u   m   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € h     
+    ¦ À Default Font                       COMUNICATION p   h   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6   „  
+ Èª ¦ À Default Font                     É DIGITAL <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ð  B6 @ðÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 @ðÿàÁ& PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& PÝÿàÁ& 0ÝÅÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& 0ÝÅÿ¢*  ýÁÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ˜ñ   >Ùÿ€ PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € PÝÿÈÎæÿPÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÎæÿPÝÿ˜îâÿ >Ùÿr   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT èþÿ€þàÿ    
+    ¦ À Default Font                       ANALOG IN s   k   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT             
+ Èªˆ¶ À Default Font                     É ATMEGA1280 @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT à¾èÿ(îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿð` |ü  0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð` (îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿŸìÿ|ü  0à € k   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   ø±( „  
+   0à À Default Font                       TX l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  A °á" „  
+   0à À Default Font                       TX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € @‚. „  
+   0à À Default Font                       TX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& ø±( „  
+   0à À Default Font                       TX1 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. ¢* „  
+   0à À Default Font                       SDA l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT pb2 ¢* „  
+   0à À Default Font                       SCL k   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT À€ ÈÑ$ „  
+   0à À Default Font                       RX l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT P! ÈÑ$ „  
+   0à À Default Font                       RX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @‚. „  
+   0à À Default Font                       RX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¢* ø±( „  
+   0à À Default Font                       RX1 @   8   "    Àž  îÑ  îÑ ÈÈª kCOMPONENT P·ÐÿHÍÇÿ    ¸–  Ú
+ @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT À}Ñÿ 
+Óÿ    Ø	 ¨) @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT À}Ñÿh@Æÿ     ¦ ¨) @   8   "    Àž  îÑ  îÑ ÈÈª kCOMPONENT èÚØÿHÍÇÿ    ¸–  Ú
+ @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT X¡Ùÿ 
+Óÿ    Ø	 ¨) @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT X¡Ùÿh@Æÿ     ¦ ¨)   pb2 `ÃE „ $PINDEFAULT PD0/SCL/INT0 21   @‚. `ÃE „ $PINDEFAULT PD1/SDA/INT1 20   ¢* `ÃE „ $PINDEFAULT PD2/RXD1/INT2 19   àÁ& `ÃE „ $PINDEFAULT PD3/TXD1/INT3 18   °á" `ÃE „ $PINDEFAULT PH0/RXD2 17   € `ÃE „ $PINDEFAULT PH1/TXD2 16   P! `ÃE „ $PINDEFAULT PJ0/RXD3/PCINT9 15    A `ÃE „ $PINDEFAULT PJ1/TXD3/PCINT10 14   À€ `ÃE „ $PINDEFAULT PE0/RXD0/PCINT8 0     `ÃE „ $PINDEFAULT PE1/TXD0/PDO 1   `À `ÃE „ $PINDEFAULT PE4/OC3B/INT4 2   0à `ÃE „ $PINDEFAULT PE5/OC3C/INT5 3       `ÃE „ $PINDEFAULT PG5/OC0B 4   Ðüÿ`ÃE „ $PINDEFAULT PE3/OC3A/AIN1 5    ?øÿ`ÃE „ $PINDEFAULT PH3/OC4A 6   p_ôÿ`ÃE „ $PINDEFAULT PH4/OC4B 7   Ÿìÿ`ÃE „ $PINDEFAULT PH5/OC4C 8   à¾èÿ`ÃE „ $PINDEFAULT PH6/OC2B 9   °Þäÿ`ÃE „ $PINDEFAULT PB4/OC2A/PCINT4 10   €þàÿ`ÃE „ $PINDEFAULT PB5/OC1A/PCINT5 11   PÝÿ`ÃE „ $PINDEFAULT PB6/OC1B/PCINT6 12    >Ùÿ`ÃE „ $PINDEFAULT PB7/OC0A/OC1C/PCINT7 13   À}Ñÿ`ÃE |ü  $PINDEFAULT AREF 98   £I è<    $PINDEFAULT PA0/AD0 22   £I ¸28    $PINDEFAULT PA1/AD1 23   £I ˆR4    $PINDEFAULT PA2/AD2 24   £I Xr0    $PINDEFAULT PA3/AD3 25   £I (’,    $PINDEFAULT PA4/AD4 26   £I ø±(    $PINDEFAULT PA5/AD5 27   £I ÈÑ$    $PINDEFAULT PA6/AD6 28   £I ˜ñ     $PINDEFAULT PA7/AD7 29   £I 81    $PINDEFAULT PC6/A14 31   £I Q    $PINDEFAULT PC5/A13 32   £I Øp    $PINDEFAULT PC4/A12 33   £I ¨
+    $PINDEFAULT PC3/A11 34   £I x°	    $PINDEFAULT PC2/A10 35   £I HÐ    $PINDEFAULT PC1/A9 36   £I ð    $PINDEFAULT PC0/A8 37   £I èþÿ   $PINDEFAULT PD7/T0 38   £I ¸/úÿ   $PINDEFAULT PG2/ALE 39   £I ˆOöÿ   $PINDEFAULT PG1/$RD$ 40   £I Xoòÿ   $PINDEFAULT PG0/$WR$ 41   £I (îÿ   $PINDEFAULT PL7 42   £I ø®êÿ   $PINDEFAULT PL6 43   £I ÈÎæÿ   $PINDEFAULT PL5/OC5C 44   £I ˜îâÿ   $PINDEFAULT PL4/OC5B 45   £I hßÿ   $PINDEFAULT PL3/OC5A 46   £I 8.Ûÿ   $PINDEFAULT PL2/T5 47   £I N×ÿ   $PINDEFAULT PL1/ICP5 48   £I ØmÓÿ   $PINDEFAULT PL0/ICP4 49   £I ¨Ïÿ   $PINDEFAULT PB3/MISO/PCINT3 50   £I x­Ëÿ   $PINDEFAULT PB2/MOSI/PCINT2 51   £I HÍÇÿ   $PINDEFAULT PB1/SCK/PCINT1 52   £I íÃÿ   $PINDEFAULT PB0/$SS$/PCINT0 53   ˜ñ  ˆL¸ÿ|ü $PINDEFAULT PK7/ADC15/PCINT23 A15   h ˆL¸ÿ|ü $PINDEFAULT PK6/ADC14/PCINT22 A14   81 ˆL¸ÿ|ü $PINDEFAULT PK5/ADC13/PCINT21 A13   Q ˆL¸ÿ|ü $PINDEFAULT PK4/ADC12/PCINT20 A12   Øp ˆL¸ÿ|ü $PINDEFAULT PK3/ADC11/PCINT19 A11   ¨
+ ˆL¸ÿ|ü $PINDEFAULT PK2/ADC10/PCINT18 A10   x°	 ˆL¸ÿ|ü $PINDEFAULT PK1/ADC9/PCINT17 A9   HÐ ˆL¸ÿ|ü $PINDEFAULT PK0/ADC8/PCINT16 A8   XoòÿˆL¸ÿ|ü $PINDEFAULT PF7/ADC7/TDI A7   ˆOöÿˆL¸ÿ|ü $PINDEFAULT PF6/ADC6/TDO A6   ¸/úÿˆL¸ÿ|ü $PINDEFAULT PF5/ADC5/TMS A5   èþÿˆL¸ÿ|ü $PINDEFAULT PF4/ADC4/TCK A4   (îÿˆL¸ÿ|ü $PINDEFAULT PF3/ADC3 A3   ø®êÿˆL¸ÿ|ü $PINDEFAULT PF2/ADC2 A2   ÈÎæÿˆL¸ÿ|ü $PINDEFAULT PF1/ADC1 A1   ˜îâÿˆL¸ÿ|ü $PINDEFAULT PF0/ADC0 A0   ¨ÏÿˆL¸ÿ„ $PINDEFAULT $RESET$ 54   £I h    $PINDEFAULT PC7/A15 30   N×ÿˆL¸ÿ„  $PINDEFAULT VCC 55   8.ÛÿˆL¸ÿ„  $PINDEFAULT GND 56 ž  {*DEVICE}
+{PREFIX=DUINO}
+{*PROPDEFS}
+{ARDUINOMEGA1280="",READONLY STRING}
+{PRIMITIVE="Primitive Type",HIDDEN STRING}
+{MODDLL="VSM Model DLL",HIDDEN STRING}
+{ITFMOD="Interface Model",HIDDEN STRING}
+{PROGRAM="PROGRAM FILE",FILENAME,FALSE,,HEX, UBROF, COFF, ELF or OBJ Files/*.hex;*.d90;*.cof;*.elf;*.obj}
+{TRACE_DEFAULT="Default Tracemode",HIDDEN TRACEMODE}
+{TRACE_SETUP="Model Initialization",HIDDEN TRACEMODE}
+{TRACE_LOAD="Program Loader",HIDDEN TRACEMODE}
+{TRACE_CPU="Instruction Execution",HIDDEN TRACEMODE}
+{CODEGEN="Default Build Tool",HIDDEN STRING}
+{CLKDIV8="CLKDIV8 (Divide clock by 8)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKOUT="CKOUT (Clock output)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{WDTON="WDTON (Watchdog timer always on)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{BOOTRST="BOOTRST (Select Reset Vector)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKSEL="CKSEL Fuses",KWDLIST,15,0="(0000) Ext. Clock",2="(0010) Int. RC Osc. 8MHz",3="(0011) Int. 128kHz RC Osc.",4="(0100) Ext. Low-Freq. Crystal",5="(0101) Ext. Low-Freq. Crystal",6="(0110) Full Swing Osc.",7="(0111) Full Swing Osc.",8="(1000) Ext. Crystal 0.4-0.9MHz",9="(1001) Ext. Crystal 0.4-0.9MHz",10="(1010) Ext. Crystal 0.9-3.0MHz",11="(1011) Ext. Crystal 0.9-3.0MHz",12="(1100) Ext. Crystal 3.0-8.0MHz",13="(1101) Ext. Crystal 3.0-8.0MHz",14="(1110) Ext. Crystal 8.0-MHz",15="(1111) Ext. Crystal 8.0-MHz"}
+{BOOTSZ="Boot Loader Size",KWDLIST,4,0="(00) 4096 words. Starts at 0x1F000",1="(01) 2408 words. Starts at 0x1F800",2="(10) 1024 words. Starts at 0x1FC00",3="(11) 512 words. Starts at 0x1FE00"}
+{SUT="SUT Fuses",KWDLIST,4,0="(00)",1="(01)",2="(10)",3="(11)"}
+{MODDATA="Persistent Model Data",HIDDEN STRING}
+{DISASM_BIN="Disassemble Binary Code",ADVANCED YESNO}
+{TRACE_SLEEP="Sleep/Wake Events",HIDDEN STRING}
+{TRACE_INTERRUPT="Interrupt Events",HIDDEN STRING}
+{TRACE_MEMORY="Memory Access",HIDDEN STRING}
+{CLOCK="Clock Frequency",FLOAT,PNZ}
+{TRACE_ADC="ADC Module",HIDDEN TRACEMODE}
+{TRACE_ACO="Analog Comparator Module",HIDDEN TRACEMODE}
+{TRACE_EEPROM="EEPROM Module",HIDDEN TRACEMODE}
+{TRACE_EXTERNAL_INTERRUPT="External Interrupts Module",HIDDEN TRACEMODE}
+{TRACE_PORTA="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTB="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTC="Port C Module",HIDDEN TRACEMODE}
+{TRACE_PORTD="Port D Module",HIDDEN TRACEMODE}
+{TRACE_PORTE="Port E Module",HIDDEN TRACEMODE}
+{TRACE_PORTF="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTG="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTH="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTJ="Port J Module",HIDDEN TRACEMODE}
+{TRACE_PORTK="Port K Module",HIDDEN TRACEMODE}
+{TRACE_PORTL="Port L Module",HIDDEN TRACEMODE}
+{TRACE_SPI="SPI Module",HIDDEN TRACEMODE}
+{TRACE_TIMER0="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER1="Timer 1 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER2="Timer 2 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER3="Timer 3 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER4="Timer 4 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER5="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TWI="TWI Module",HIDDEN TRACEMODE}
+{TRACE_USART0="USART 0 Module",HIDDEN TRACEMODE}
+{TRACE_USART1="USART 1 Module",HIDDEN TRACEMODE}
+{TRACE_USART2="USART 2 Module",HIDDEN TRACEMODE}
+{TRACE_USART3="USART 3 Module",HIDDEN TRACEMODE}
+{TRACE_WATCHDOG="Watchdog Timer Module",HIDDEN TRACEMODE}
+{MODFILE="Initial Contents Of Data EEPROM",ADVANCED FILENAME,FALSE,,Binary Image Files/*.bin}
+{*INDEX}
+{CAT=Emulator}
+{SUBCAT=ATMEGA}
+{MFR=}
+{DESC=Arduino MEGA (ATmega1280)}
+{*COMPONENT}
+{PRIMITIVE=DIGITAL,ATMEGA1280}
+{MODDLL=AVR2.DLL}
+{ITFMOD=AVR}
+{TRACE_DEFAULT=1}
+{CODEGEN=AVRASM2}
+{CLKDIV8=1}
+{CKOUT=1}
+{WDTON=1}
+{BOOTRST=1}
+{CKSEL=0}
+{BOOTSZ=0}
+{SUT=0}
+{MODDATA=4096,255}
+{DISASM_BIN=0}
+{CLOCK=16MHz}
+ Ñ'  Ù  J        (      @   8   "    Àž  t‘  t‘ ÈÈª kCOMPONENT  <ºÿˆL¸ÿ    ðf Øv 0   4                     $MKRORIGIN          @   8   "    Àž  hgg  hgg ÈÈª kCOMPONENT ÈË¨ÿ¨
+     € P! @   8   "    Àž           ÈÈª kCOMPONENT @|²ÿHÍÇÿ    P! À€ @   8   "    Àž           ÈÈª kCOMPONENT ŸìÿŸìÿ    àÁ& °á" <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  >Ùÿh 8.Ûÿ81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT 8.Ûÿ81 HÐ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT HÐ 81 `À h l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @ðÿh     
+    ¦ À Default Font                       PWM <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   h ¨
+ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¨
+ 81 @‚. 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. 81 pb2 h <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Ð": è<  B6 ¸28 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ¸28  B6 Q u   m   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € h     
+    ¦ À Default Font                       COMUNICATION p   h   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6   „  
+ Èª ¦ À Default Font                     É DIGITAL <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ð  B6 @ðÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 @ðÿàÁ& PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& PÝÿàÁ& 0ÝÅÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& 0ÝÅÿ¢*  ýÁÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ˜ñ   >Ùÿ€ PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € PÝÿÈÎæÿPÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÎæÿPÝÿ˜îâÿ >Ùÿr   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT èþÿ€þàÿ    
+    ¦ À Default Font                       ANALOG IN s   k   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT             
+ Èªˆ¶ À Default Font                     É ATMEGA2560 r   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT     èþÿ    
+   ˆ¶ À Default Font                       16AU 1126 @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT à¾èÿ(îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿð` |ü  0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð` (îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿŸìÿ|ü  0à € l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   ø±( „  
+   0à À Default Font                       TX0 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  A °á" „  
+   0à À Default Font                       TX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € @‚. „  
+   0à À Default Font                       TX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& ø±( „  
+   0à À Default Font                       TX1 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. ¢* „  
+   0à À Default Font                       SDA l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT pb2 ¢* „  
+   0à À Default Font                       SCL l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT À€ ÈÑ$ „  
+   0à À Default Font                       RX0 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT P! ÈÑ$ „  
+   0à À Default Font                       RX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @‚. „  
+   0à À Default Font                       RX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¢* ø±( „  
+   0à À Default Font                       RX1   pb2 `ÃE „ $PINDEFAULT PD0/SCL/INT0 21   @‚. `ÃE „ $PINDEFAULT PD1/SDA/INT1 20   ¢* `ÃE „ $PINDEFAULT PD2/RXD1/INT2 19   àÁ& `ÃE „ $PINDEFAULT PD3/TXD1/INT3 18   °á" `ÃE „ $PINDEFAULT PH0/RXD2 17   € `ÃE „ $PINDEFAULT PH1/TXD2 16   P! `ÃE „ $PINDEFAULT PJ0/RXD3/PCINT9 15    A `ÃE „ $PINDEFAULT PJ1/TXD3/PCINT10 14   À€ `ÃE „ $PINDEFAULT PE0/RXD0/PCINT8 0     `ÃE „ $PINDEFAULT PE1/TXD0/PDO 1   `À `ÃE „ $PINDEFAULT PE4/OC3B/INT4 2   0à `ÃE „ $PINDEFAULT PE5/OC3C/INT5 3       `ÃE „ $PINDEFAULT PG5/OC0B 4   Ðüÿ`ÃE „ $PINDEFAULT PE3/OC3A/AIN1 5    ?øÿ`ÃE „ $PINDEFAULT PH3/OC4A 6   p_ôÿ`ÃE „ $PINDEFAULT PH4/OC4B 7   Ÿìÿ`ÃE „ $PINDEFAULT PH5/OC4C 8   à¾èÿ`ÃE „ $PINDEFAULT PH6/OC2B 9   °Þäÿ`ÃE „ $PINDEFAULT PB4/OC2A/PCINT4 10   €þàÿ`ÃE „ $PINDEFAULT PB5/OC1A/PCINT5 11   PÝÿ`ÃE „ $PINDEFAULT PB6/OC1B/PCINT6 12    >Ùÿ`ÃE „ $PINDEFAULT PB7/OC0A/OC1C/PCINT7 13   À}Ñÿ`ÃE |ü  $PINDEFAULT AREF 98   £I è<    $PINDEFAULT PA0/AD0 22   £I ¸28    $PINDEFAULT PA1/AD1 23   £I ˆR4    $PINDEFAULT PA2/AD2 24   £I Xr0    $PINDEFAULT PA3/AD3 25   £I (’,    $PINDEFAULT PA4/AD4 26   £I ø±(    $PINDEFAULT PA5/AD5 27   £I ÈÑ$    $PINDEFAULT PA6/AD6 28   £I ˜ñ     $PINDEFAULT PA7/AD7 29   £I 81    $PINDEFAULT PC6/A14 31   £I Q    $PINDEFAULT PC5/A13 32   £I Øp    $PINDEFAULT PC4/A12 33   £I ¨
+    $PINDEFAULT PC3/A11 34   £I x°	    $PINDEFAULT PC2/A10 35   £I HÐ    $PINDEFAULT PC1/A9 36   £I ð    $PINDEFAULT PC0/A8 37   £I èþÿ   $PINDEFAULT PD7/T0 38   £I ¸/úÿ   $PINDEFAULT PG2/ALE 39   £I ˆOöÿ   $PINDEFAULT PG1/$RD$ 40   £I Xoòÿ   $PINDEFAULT PG0/$WR$ 41   £I (îÿ   $PINDEFAULT PL7 42   £I ø®êÿ   $PINDEFAULT PL6 43   £I ÈÎæÿ   $PINDEFAULT PL5/OC5C 44   £I ˜îâÿ   $PINDEFAULT PL4/OC5B 45   £I hßÿ   $PINDEFAULT PL3/OC5A 46   £I 8.Ûÿ   $PINDEFAULT PL2/T5 47   £I N×ÿ   $PINDEFAULT PL1/ICP5 48   £I ØmÓÿ   $PINDEFAULT PL0/ICP4 49   £I ¨Ïÿ   $PINDEFAULT PB3/MISO/PCINT3 50   £I x­Ëÿ   $PINDEFAULT PB2/MOSI/PCINT2 51   £I HÍÇÿ   $PINDEFAULT PB1/SCK/PCINT1 52   £I íÃÿ   $PINDEFAULT PB0/$SS$/PCINT0 53   ˜ñ  ˆL¸ÿ|ü $PINDEFAULT PK7/ADC15/PCINT23 A15   h ˆL¸ÿ|ü $PINDEFAULT PK6/ADC14/PCINT22 A14   81 ˆL¸ÿ|ü $PINDEFAULT PK5/ADC13/PCINT21 A13   Q ˆL¸ÿ|ü $PINDEFAULT PK4/ADC12/PCINT20 A12   Øp ˆL¸ÿ|ü $PINDEFAULT PK3/ADC11/PCINT19 A11   ¨
+ ˆL¸ÿ|ü $PINDEFAULT PK2/ADC10/PCINT18 A10   x°	 ˆL¸ÿ|ü $PINDEFAULT PK1/ADC9/PCINT17 A9   HÐ ˆL¸ÿ|ü $PINDEFAULT PK0/ADC8/PCINT16 A8   XoòÿˆL¸ÿ|ü $PINDEFAULT PF7/ADC7/TDI A7   ˆOöÿˆL¸ÿ|ü $PINDEFAULT PF6/ADC6/TDO A6   ¸/úÿˆL¸ÿ|ü $PINDEFAULT PF5/ADC5/TMS A5   èþÿˆL¸ÿ|ü $PINDEFAULT PF4/ADC4/TCK A4   (îÿˆL¸ÿ|ü $PINDEFAULT PF3/ADC3 A3   ø®êÿˆL¸ÿ|ü $PINDEFAULT PF2/ADC2 A2   ÈÎæÿˆL¸ÿ|ü $PINDEFAULT PF1/ADC1 A1   ˜îâÿˆL¸ÿ|ü $PINDEFAULT PF0/ADC0 A0   ¨ÏÿˆL¸ÿ„ $PINDEFAULT $RESET$ 54   £I h    $PINDEFAULT PC7/A15 30   N×ÿˆL¸ÿ„  $PINDEFAULT VCC 55   8.ÛÿˆL¸ÿ„  $PINDEFAULT GND 56 ô  {*DEVICE}
+{PREFIX=DUINO}
+{*PROPDEFS}
+{BLOG="BLOG ( Direitos Autorais )",READONLY STRING}
+{PRIMITIVE="Primitive Type",HIDDEN STRING}
+{MODDLL="VSM Model DLL",HIDDEN STRING}
+{ITFMOD="Interface Model",HIDDEN STRING}
+{PROGRAM="PROGRAM FILE",FILENAME,FALSE,,HEX, UBROF, COFF, ELF or OBJ Files/*.hex;*.d90;*.cof;*.elf;*.obj}
+{TRACE_DEFAULT="Default Tracemode",HIDDEN TRACEMODE}
+{TRACE_SETUP="Model Initialization",HIDDEN TRACEMODE}
+{TRACE_LOAD="Program Loader",HIDDEN TRACEMODE}
+{TRACE_CPU="Instruction Execution",HIDDEN TRACEMODE}
+{CODEGEN="Default Build Tool",HIDDEN STRING}
+{CLKDIV8="CLKDIV8 (Divide clock by 8)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKOUT="CKOUT (Clock output)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{WDTON="WDTON (Watchdog timer always on)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{BOOTRST="BOOTRST (Select Reset Vector)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKSEL="CKSEL Fuses",KWDLIST,15,0="(0000) Ext. Clock",2="(0010) Int. RC Osc. 8MHz",3="(0011) Int. 128kHz RC Osc.",4="(0100) Ext. Low-Freq. Crystal",5="(0101) Ext. Low-Freq. Crystal",6="(0110) Full Swing Osc.",7="(0111) Full Swing Osc.",8="(1000) Ext. Crystal 0.4-0.9MHz",9="(1001) Ext. Crystal 0.4-0.9MHz",10="(1010) Ext. Crystal 0.9-3.0MHz",11="(1011) Ext. Crystal 0.9-3.0MHz",12="(1100) Ext. Crystal 3.0-8.0MHz",13="(1101) Ext. Crystal 3.0-8.0MHz",14="(1110) Ext. Crystal 8.0-MHz",15="(1111) Ext. Crystal 8.0-MHz"}
+{BOOTSZ="Boot Loader Size",KWDLIST,4,0="(00) 4096 words. Starts at 0x1F000",1="(01) 2408 words. Starts at 0x1F800",2="(10) 1024 words. Starts at 0x1FC00",3="(11) 512 words. Starts at 0x1FE00"}
+{SUT="SUT Fuses",KWDLIST,4,0="(00)",1="(01)",2="(10)",3="(11)"}
+{MODDATA="Persistent Model Data",HIDDEN STRING}
+{DISASM_BIN="Disassemble Binary Code",ADVANCED YESNO}
+{TRACE_SLEEP="Sleep/Wake Events",HIDDEN STRING}
+{TRACE_INTERRUPT="Interrupt Events",HIDDEN STRING}
+{TRACE_MEMORY="Memory Access",HIDDEN STRING}
+{CLOCK="Clock Frequency",FLOAT,PNZ}
+{TRACE_ADC="ADC Module",HIDDEN TRACEMODE}
+{TRACE_ACO="Analog Comparator Module",HIDDEN TRACEMODE}
+{TRACE_EEPROM="EEPROM Module",HIDDEN TRACEMODE}
+{TRACE_EXTERNAL_INTERRUPT="External Interrupts Module",HIDDEN TRACEMODE}
+{TRACE_PORTA="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTB="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTC="Port C Module",HIDDEN TRACEMODE}
+{TRACE_PORTD="Port D Module",HIDDEN TRACEMODE}
+{TRACE_PORTE="Port E Module",HIDDEN TRACEMODE}
+{TRACE_PORTF="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTG="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTH="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTJ="Port J Module",HIDDEN TRACEMODE}
+{TRACE_PORTK="Port K Module",HIDDEN TRACEMODE}
+{TRACE_PORTL="Port L Module",HIDDEN TRACEMODE}
+{TRACE_SPI="SPI Module",HIDDEN TRACEMODE}
+{TRACE_TIMER0="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER1="Timer 1 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER2="Timer 2 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER3="Timer 3 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER4="Timer 4 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER5="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TWI="TWI Module",HIDDEN TRACEMODE}
+{TRACE_USART0="USART 0 Module",HIDDEN TRACEMODE}
+{TRACE_USART1="USART 1 Module",HIDDEN TRACEMODE}
+{TRACE_USART2="USART 2 Module",HIDDEN TRACEMODE}
+{TRACE_USART3="USART 3 Module",HIDDEN TRACEMODE}
+{TRACE_WATCHDOG="Watchdog Timer Module",HIDDEN TRACEMODE}
+{MODFILE="Initial Contents Of Data EEPROM",ADVANCED FILENAME,FALSE,,Binary Image Files/*.bin}
+{ARDUINOMEGA2560="",READONLY STRING}
+{*INDEX}
+{CAT=Emulator}
+{SUBCAT=ATMEGA}
+{MFR=}
+{DESC=Arduino MEGA2560 Rev3}
+{*COMPONENT}
+{BLOG=microcontrolandos.blogspot.com}
+{PRIMITIVE=DIGITAL,ATMEGA2560}
+{MODDLL=AVR2.DLL}
+{ITFMOD=AVR}
+{TRACE_DEFAULT=1}
+{CODEGEN=AVRASM2}
+{CLKDIV8=1}
+{CKOUT=1}
+{WDTON=1}
+{BOOTRST=1}
+{CKSEL=0}
+{BOOTSZ=0}
+{SUT=0}
+{MODDATA=4096,255}
+{DISASM_BIN=0}
+{CLOCK=16MHz}
+ a#  @       r  5      t   `   "    Àž  t‘  t‘ ÈÈª kCOMPONENT    ¢*  >Ùÿ@‚.  A   ¢*  A @‚. ð` @‚. PÝÿ¢*  >Ùÿ¢*  A  @   8   "    Àž  t‘  t‘ ÈÈª kCOMPONENT N×ÿð]Õÿ    TS  DU 0   4                     $MKRORIGIN          @   8   "    Àž  hgg  hgg ÈÈª kCOMPONENT x­Ëÿ       A ð` @   8   "    Àž           ÈÈª kCOMPONENT À}Ñÿ8.Ûÿ     A ¨
+ @   8   "    Àž           ÈÈª kCOMPONENT @ðÿˆOöÿ    ¸28 Øp <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Xoòÿ¨
+ ÈÑ$ ¨
+ w   o   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Q Øp     
+ Èª ¦ À Default Font                     É DIGITAL (~PWM) <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @ðÿð` @ðÿr   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ð` ø®êÿ    
+    ¦ À Default Font                       ANALOG IN v   n   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¨
+       
+ Èªˆ¶ À Default Font                     É ATMEGA328P-PU m   e   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT `À èþÿ  
+   ˆ¶ À Default Font                       1121 @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Xoòÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˆOöÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¸/úÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT èþÿx°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT HÐ x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT x°	 x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¨
+ x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Øp x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Q x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT 81 x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT h x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˜ñ  x°	     ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ÈÑ$ x°	     ð èþÿj   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  ?øÿÀ€ „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÐüÿØp „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT      A „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT À€ 81 „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ð`  A „  
+ (hC À Default Font                     ¡ ~ j   b   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT P! 81 „  
+ (hC À Default Font                     ¡ ~ <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Xoòÿ¨
+ @ðÿÀ€ <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÑ$ ¨
+ àÁ& À€ <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ð` @ðÿØp (îÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @ðÿÈÑ$ @ðÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÑ$ @ðÿàÁ& (îÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT XoòÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˆOöÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¸/úÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT èþÿˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT HÐ ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT x°	 ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ¨
+ ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Øp ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT Q ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT 81 ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT h ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ˜ñ  ˆOöÿ    ð èþÿ@   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ÈÑ$ ˆOöÿ    ð èþÿk   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á"  A „  
+   0à À Default Font                       TX k   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ&  A „  
+   0à À Default Font                       RX   àÁ& ¢* „ $PINDEFAULT PD0/RXD 0   °á" ¢* „ $PINDEFAULT PD1/TXD 1   € ¢* „ $PINDEFAULT PD2/INT0 2   P! ¢* „ $PINDEFAULT PD3/INT1 3    A ¢* „ $PINDEFAULT PD4/T0/XCK 4   ð` ¢* „ $PINDEFAULT PD5/T1 5   À€ ¢* „ $PINDEFAULT PD6/AIN0 6     ¢* „ $PINDEFAULT PD7/AIN1 7   0à ¢* „ $PINDEFAULT PB0/ICP1/CLKO 8       ¢* „ $PINDEFAULT PB1/OC1A 9   Ðüÿ¢* „ $PINDEFAULT PB2/$SS$/OC1B 10    ?øÿ¢* „ $PINDEFAULT PB3/MOSI/OC2A 11   p_ôÿ¢* „ $PINDEFAULT PB4/MISO 12   @ðÿ¢* „ $PINDEFAULT PB5/SCK 13   à¾èÿ¢* |ü  $PINDEFAULT AREF 98   ÈÑ$ ð]Õÿ|ü $PINDEFAULT PC5/ADC5/SCL A5   ˜ñ  ð]Õÿ|ü $PINDEFAULT PC4/ADC4/SDA A4   h ð]Õÿ|ü $PINDEFAULT PC3/ADC3 A3   81 ð]Õÿ|ü $PINDEFAULT PC2/ADC2 A2   Q ð]Õÿ|ü $PINDEFAULT PC1/ADC1 A1   Øp ð]Õÿ|ü $PINDEFAULT PC0/ADC0 A0   ˆOöÿð]Õÿ„ $PINDEFAULT $RESET$ RESET   èþÿð]Õÿ„  $PINDEFAULT VCC 55   ð ð]Õÿ„  $PINDEFAULT GND 56   {*DEVICE}
+{PREFIX=ARD}
+{*PROPDEFS}
+{ARD="UNO",READONLY STRING}
+{PROGRAM="Program File",FILENAME,FALSE,,HEX, UBROF, COFF, ELF or OBJ Files/*.hex;*.d90;*.cof;*.elf;*.obj}
+{PRIMITIVE="Primitive Type",HIDDEN STRING}
+{MODDLL="VSM Model DLL",HIDDEN STRING}
+{ITFMOD="Interface Model",HIDDEN STRING}
+{TRACE_DEFAULT="TRACE_DEFAULT",HIDDEN TRACEMODE}
+{CODEGEN="CODEGEN",HIDDEN STRING}
+{RSTDISBL="RSTDISBL (Disable reset)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{WDTON="WDTON (Enable watchdog)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{BOOTRST="BOOTRST (Select Reset Vector)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKSEL="CKSEL Fuses",KWDLIST,15,0="(0000) Ext. Clock",2="(0010) Int. RC Osc. 8MHz",3="(0011) Int. RC Osc. 128kHz",4="(0100) Ext. Low-Freq. Crystal",5="(0101) Ext. Low-Freq. Crystal",6="(0110) Ext. Full-swing Crystal",7="(0111) Ext. Full-swing Crystal",8="(1000) Ext. Crystal 0.4-0.9MHz",9="(1001) Ext. Crystal 0.4-0.9MHz",10="(1010) Ext. Crystal 0.9-3.0MHz",11="(1011) Ext. Crystal 0.9-3.0MHz",12="(1100) Ext. Crystal 3.0-8.0MHz",13="(1101) Ext. Crystal 3.0-8.0MHz",14="(1110) Ext. Crystal 8.0-MHz",15="(1111) Ext. Crystal 8.0-MHz"}
+{BOOTSZ="Boot Loader Size",KWDLIST,4,0="(00) 1024 words. Starts at 0x1C00",1="(01) 512 words. Starts at 0x1E00",2="(10) 256 words. Starts at 0x1F00",3="(11) 128 words. Starts at 0x1F80"}
+{SUT="SUT Fuses",KWDLIST,4,0="(00)",1="(01)",2="(10)",3="(11)"}
+{MODDATA="Persistent Model Data",HIDDEN STRING}
+{DISASM_BIN="Disassemble Binary Code",ADVANCED YESNO}
+{TRACE_SETUP="TRACE_SETUP",HIDDEN TRACEMODE}
+{TRACE_LOAD="TRACE_LOAD",HIDDEN TRACEMODE}
+{TRACE_SLEEP="TRACE_SLEEP",HIDDEN TRACEMODE}
+{TRACE_INTERRUPT="TRACE_INTERRUPT",HIDDEN TRACEMODE}
+{TRACE_CPU="TRACE_CPU",HIDDEN TRACEMODE}
+{TRACE_MEMORY="TRACE_MEMORY",HIDDEN TRACEMODE}
+{CLOCK="Clock Frequence",FLOAT,PNZ}
+{TRACE_ADC="TRACE_ADC",HIDDEN TRACEMODE}
+{TRACE_ACO="TRACE_ACO",HIDDEN TRACEMODE}
+{TRACE_EEPROM="TRACE_EEPROM",HIDDEN TRACEMODE}
+{MODDATAFILE="Initial Contents Of Data EEPROM",ADVANCED FILENAME,FALSE,,Binary Image Files/*.bin}
+{TRACE_EXTERNAL_INTERRUPT="TRACE_EXTERNAL_INTERRUPT",HIDDEN TRACEMODE}
+{TRACE_PORTB="TRACE_PORTB",HIDDEN TRACEMODE}
+{TRACE_PORTC="TRACE_PORTC",HIDDEN TRACEMODE}
+{TRACE_PORTD="TRACE_PORTD",HIDDEN TRACEMODE}
+{TRACE_SPI="TRACE_SPI",HIDDEN TRACEMODE}
+{TRACE_TIMER0="TRACE_TIMER0",HIDDEN TRACEMODE}
+{TRACE_TIMER1="TRACE_TIMER1",HIDDEN TRACEMODE}
+{TRACE_TIMER2="TRACE_TIMER2",HIDDEN TRACEMODE}
+{TRACE_TWI="TRACE_TWI",HIDDEN TRACEMODE}
+{TRACE_USART0="TRACE_USART",HIDDEN TRACEMODE}
+{TRACE_WATCHDOG="TRACE_WATCHDOG",HIDDEN TRACEMODE}
+{NAME="NAME",STRING}
+{CLKDIV8="CLKDIV8 (Divide clock by 8)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKOUT="CKOUT (Clock output)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{*INDEX}
+{CAT=Emulator}
+{SUBCAT=ATMEGA}
+{MFR=}
+{DESC=Arduino Uno R3}
+{*COMPONENT}
+{PRIMITIVE=DIGITAL,ATMEGA328P}
+{MODDLL=AVR2.DLL}
+{ITFMOD=AVR}
+{CODEGEN=AVRASM2}
+{RSTDISBL=1}
+{WDTON=1}
+{BOOTRST=1}
+{CKSEL=0}
+{BOOTSZ=0}
+{SUT=2}
+{MODDATA=1024,255}
+{DISASM_BIN=0}
+{CLOCK=16MHz}
+{NAME=ARDUINO UNO REV3}
+{CLKDIV8=1}
+{CKOUT=1}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ð'  Ù  J        (      @   8   "    Àž  t‘  t‘ ÈÈª kCOMPONENT  <ºÿˆL¸ÿ    ðf Øv 0   4                     $MKRORIGIN          @   8   "    Àž  hgg  hgg ÈÈª kCOMPONENT ÈË¨ÿ¨
+     € P! @   8   "    Àž           ÈÈª kCOMPONENT @|²ÿHÍÇÿ    P! À€ @   8   "    Àž           ÈÈª kCOMPONENT ŸìÿŸìÿ    àÁ& °á" <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  >Ùÿh 8.Ûÿ81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT 8.Ûÿ81 HÐ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT HÐ 81 `À h l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @ðÿh     
+    ¦ À Default Font                       PWM <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   h ¨
+ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¨
+ 81 @‚. 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. 81 pb2 h <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Ð": è<  B6 ¸28 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ¸28  B6 Q u   m   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € h     
+    ¦ À Default Font                       COMUNICATION p   h   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6   „  
+ Èª ¦ À Default Font                     É DIGITAL <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ð  B6 @ðÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 @ðÿàÁ& PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& PÝÿàÁ& 0ÝÅÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& 0ÝÅÿ¢*  ýÁÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ˜ñ   >Ùÿ€ PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € PÝÿÈÎæÿPÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÎæÿPÝÿ˜îâÿ >Ùÿr   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT èþÿ€þàÿ    
+    ¦ À Default Font                       ANALOG IN s   k   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT             
+ Èªˆ¶ À Default Font                     É ATMEGA2560 r   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT     èþÿ    
+   ˆ¶ À Default Font                       16AU 1126 @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT à¾èÿ(îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿð` |ü  0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð` (îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿŸìÿ|ü  0à € l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   ø±( „  
+   0à À Default Font                       TX0 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  A °á" „  
+   0à À Default Font                       TX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € @‚. „  
+   0à À Default Font                       TX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& ø±( „  
+   0à À Default Font                       TX1 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. ¢* „  
+   0à À Default Font                       SDA l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT pb2 ¢* „  
+   0à À Default Font                       SCL l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT À€ ÈÑ$ „  
+   0à À Default Font                       RX0 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT P! ÈÑ$ „  
+   0à À Default Font                       RX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @‚. „  
+   0à À Default Font                       RX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¢* ø±( „  
+   0à À Default Font                       RX1   pb2 `ÃE „ $PINDEFAULT PD0/SCL/INT0 21   @‚. `ÃE „ $PINDEFAULT PD1/SDA/INT1 20   ¢* `ÃE „ $PINDEFAULT PD2/RXD1/INT2 19   àÁ& `ÃE „ $PINDEFAULT PD3/TXD1/INT3 18   °á" `ÃE „ $PINDEFAULT PH0/RXD2 17   € `ÃE „ $PINDEFAULT PH1/TXD2 16   P! `ÃE „ $PINDEFAULT PJ0/RXD3/PCINT9 15    A `ÃE „ $PINDEFAULT PJ1/TXD3/PCINT10 14   À€ `ÃE „ $PINDEFAULT PE0/RXD0/PCINT8 0     `ÃE „ $PINDEFAULT PE1/TXD0/PDO 1   `À `ÃE „ $PINDEFAULT PE4/OC3B/INT4 2   0à `ÃE „ $PINDEFAULT PE5/OC3C/INT5 3       `ÃE „ $PINDEFAULT PG5/OC0B 4   Ðüÿ`ÃE „ $PINDEFAULT PE3/OC3A/AIN1 5    ?øÿ`ÃE „ $PINDEFAULT PH3/OC4A 6   p_ôÿ`ÃE „ $PINDEFAULT PH4/OC4B 7   Ÿìÿ`ÃE „ $PINDEFAULT PH5/OC4C 8   à¾èÿ`ÃE „ $PINDEFAULT PH6/OC2B 9   °Þäÿ`ÃE „ $PINDEFAULT PB4/OC2A/PCINT4 10   €þàÿ`ÃE „ $PINDEFAULT PB5/OC1A/PCINT5 11   PÝÿ`ÃE „ $PINDEFAULT PB6/OC1B/PCINT6 12    >Ùÿ`ÃE „ $PINDEFAULT PB7/OC0A/OC1C/PCINT7 13   À}Ñÿ`ÃE |ü  $PINDEFAULT AREF 98   £I è<    $PINDEFAULT PA0/AD0 22   £I ¸28    $PINDEFAULT PA1/AD1 23   £I ˆR4    $PINDEFAULT PA2/AD2 24   £I Xr0    $PINDEFAULT PA3/AD3 25   £I (’,    $PINDEFAULT PA4/AD4 26   £I ø±(    $PINDEFAULT PA5/AD5 27   £I ÈÑ$    $PINDEFAULT PA6/AD6 28   £I ˜ñ     $PINDEFAULT PA7/AD7 29   £I 81    $PINDEFAULT PC6/A14 31   £I Q    $PINDEFAULT PC5/A13 32   £I Øp    $PINDEFAULT PC4/A12 33   £I ¨
+    $PINDEFAULT PC3/A11 34   £I x°	    $PINDEFAULT PC2/A10 35   £I HÐ    $PINDEFAULT PC1/A9 36   £I ð    $PINDEFAULT PC0/A8 37   £I èþÿ   $PINDEFAULT PD7/T0 38   £I ¸/úÿ   $PINDEFAULT PG2/ALE 39   £I ˆOöÿ   $PINDEFAULT PG1/$RD$ 40   £I Xoòÿ   $PINDEFAULT PG0/$WR$ 41   £I (îÿ   $PINDEFAULT PL7 42   £I ø®êÿ   $PINDEFAULT PL6 43   £I ÈÎæÿ   $PINDEFAULT PL5/OC5C 44   £I ˜îâÿ   $PINDEFAULT PL4/OC5B 45   £I hßÿ   $PINDEFAULT PL3/OC5A 46   £I 8.Ûÿ   $PINDEFAULT PL2/T5 47   £I N×ÿ   $PINDEFAULT PL1/ICP5 48   £I ØmÓÿ   $PINDEFAULT PL0/ICP4 49   £I ¨Ïÿ   $PINDEFAULT PB3/MISO/PCINT3 50   £I x­Ëÿ   $PINDEFAULT PB2/MOSI/PCINT2 51   £I HÍÇÿ   $PINDEFAULT PB1/SCK/PCINT1 52   £I íÃÿ   $PINDEFAULT PB0/$SS$/PCINT0 53   ˜ñ  ˆL¸ÿ|ü $PINDEFAULT PK7/ADC15/PCINT23 A15   h ˆL¸ÿ|ü $PINDEFAULT PK6/ADC14/PCINT22 A14   81 ˆL¸ÿ|ü $PINDEFAULT PK5/ADC13/PCINT21 A13   Q ˆL¸ÿ|ü $PINDEFAULT PK4/ADC12/PCINT20 A12   Øp ˆL¸ÿ|ü $PINDEFAULT PK3/ADC11/PCINT19 A11   ¨
+ ˆL¸ÿ|ü $PINDEFAULT PK2/ADC10/PCINT18 A10   x°	 ˆL¸ÿ|ü $PINDEFAULT PK1/ADC9/PCINT17 A9   HÐ ˆL¸ÿ|ü $PINDEFAULT PK0/ADC8/PCINT16 A8   XoòÿˆL¸ÿ|ü $PINDEFAULT PF7/ADC7/TDI A7   ˆOöÿˆL¸ÿ|ü $PINDEFAULT PF6/ADC6/TDO A6   ¸/úÿˆL¸ÿ|ü $PINDEFAULT PF5/ADC5/TMS A5   èþÿˆL¸ÿ|ü $PINDEFAULT PF4/ADC4/TCK A4   (îÿˆL¸ÿ|ü $PINDEFAULT PF3/ADC3 A3   ø®êÿˆL¸ÿ|ü $PINDEFAULT PF2/ADC2 A2   ÈÎæÿˆL¸ÿ|ü $PINDEFAULT PF1/ADC1 A1   ˜îâÿˆL¸ÿ|ü $PINDEFAULT PF0/ADC0 A0   ¨ÏÿˆL¸ÿ„ $PINDEFAULT $RESET$ 54   £I h    $PINDEFAULT PC7/A15 30   N×ÿˆL¸ÿ„  $PINDEFAULT VCC 55   8.ÛÿˆL¸ÿ„  $PINDEFAULT GND 56   {*DEVICE}
+{PREFIX=ARD}
+{*PROPDEFS}
+{BLOG="BLOG ( Direitos Autorais )",READONLY STRING}
+{PRIMITIVE="Primitive Type",HIDDEN STRING}
+{MODDLL="VSM Model DLL",HIDDEN STRING}
+{ITFMOD="Interface Model",HIDDEN STRING}
+{PROGRAM="PROGRAM FILE",FILENAME,FALSE,,HEX, UBROF, COFF, ELF or OBJ Files/*.hex;*.d90;*.cof;*.elf;*.obj}
+{TRACE_DEFAULT="Default Tracemode",HIDDEN TRACEMODE}
+{TRACE_SETUP="Model Initialization",HIDDEN TRACEMODE}
+{TRACE_LOAD="Program Loader",HIDDEN TRACEMODE}
+{TRACE_CPU="Instruction Execution",HIDDEN TRACEMODE}
+{CODEGEN="Default Build Tool",HIDDEN STRING}
+{CLKDIV8="CLKDIV8 (Divide clock by 8)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKOUT="CKOUT (Clock output)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{WDTON="WDTON (Watchdog timer always on)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{BOOTRST="BOOTRST (Select Reset Vector)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKSEL="CKSEL Fuses",KWDLIST,15,0="(0000) Ext. Clock",2="(0010) Int. RC Osc. 8MHz",3="(0011) Int. 128kHz RC Osc.",4="(0100) Ext. Low-Freq. Crystal",5="(0101) Ext. Low-Freq. Crystal",6="(0110) Full Swing Osc.",7="(0111) Full Swing Osc.",8="(1000) Ext. Crystal 0.4-0.9MHz",9="(1001) Ext. Crystal 0.4-0.9MHz",10="(1010) Ext. Crystal 0.9-3.0MHz",11="(1011) Ext. Crystal 0.9-3.0MHz",12="(1100) Ext. Crystal 3.0-8.0MHz",13="(1101) Ext. Crystal 3.0-8.0MHz",14="(1110) Ext. Crystal 8.0-MHz",15="(1111) Ext. Crystal 8.0-MHz"}
+{BOOTSZ="Boot Loader Size",KWDLIST,4,0="(00) 4096 words. Starts at 0x1F000",1="(01) 2408 words. Starts at 0x1F800",2="(10) 1024 words. Starts at 0x1FC00",3="(11) 512 words. Starts at 0x1FE00"}
+{SUT="SUT Fuses",KWDLIST,4,0="(00)",1="(01)",2="(10)",3="(11)"}
+{MODDATA="Persistent Model Data",HIDDEN STRING}
+{DISASM_BIN="Disassemble Binary Code",ADVANCED YESNO}
+{TRACE_SLEEP="Sleep/Wake Events",HIDDEN STRING}
+{TRACE_INTERRUPT="Interrupt Events",HIDDEN STRING}
+{TRACE_MEMORY="Memory Access",HIDDEN STRING}
+{CLOCK="Clock Frequency",FLOAT,PNZ}
+{TRACE_ADC="ADC Module",HIDDEN TRACEMODE}
+{TRACE_ACO="Analog Comparator Module",HIDDEN TRACEMODE}
+{TRACE_EEPROM="EEPROM Module",HIDDEN TRACEMODE}
+{TRACE_EXTERNAL_INTERRUPT="External Interrupts Module",HIDDEN TRACEMODE}
+{TRACE_PORTA="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTB="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTC="Port C Module",HIDDEN TRACEMODE}
+{TRACE_PORTD="Port D Module",HIDDEN TRACEMODE}
+{TRACE_PORTE="Port E Module",HIDDEN TRACEMODE}
+{TRACE_PORTF="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTG="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTH="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTJ="Port J Module",HIDDEN TRACEMODE}
+{TRACE_PORTK="Port K Module",HIDDEN TRACEMODE}
+{TRACE_PORTL="Port L Module",HIDDEN TRACEMODE}
+{TRACE_SPI="SPI Module",HIDDEN TRACEMODE}
+{TRACE_TIMER0="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER1="Timer 1 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER2="Timer 2 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER3="Timer 3 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER4="Timer 4 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER5="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TWI="TWI Module",HIDDEN TRACEMODE}
+{TRACE_USART0="USART 0 Module",HIDDEN TRACEMODE}
+{TRACE_USART1="USART 1 Module",HIDDEN TRACEMODE}
+{TRACE_USART2="USART 2 Module",HIDDEN TRACEMODE}
+{TRACE_USART3="USART 3 Module",HIDDEN TRACEMODE}
+{TRACE_WATCHDOG="Watchdog Timer Module",HIDDEN TRACEMODE}
+{MODFILE="Initial Contents Of Data EEPROM",ADVANCED FILENAME,FALSE,,Binary Image Files/*.bin}
+{ARDUINOMEGA2560="",READONLY STRING}
+{ARD="MEGA2560",READONLY STRING}
+{*INDEX}
+{CAT=Emulator}
+{SUBCAT=ATMEGA}
+{MFR=}
+{DESC=Arduino MEGA2560 Rev3}
+{*COMPONENT}
+{BLOG=microcontrolandos.blogspot.com}
+{PRIMITIVE=DIGITAL,ATMEGA2560}
+{MODDLL=AVR2.DLL}
+{ITFMOD=AVR}
+{TRACE_DEFAULT=1}
+{CODEGEN=AVRASM2}
+{CLKDIV8=1}
+{CKOUT=1}
+{WDTON=1}
+{BOOTRST=1}
+{CKSEL=0}
+{BOOTSZ=0}
+{SUT=0}
+{MODDATA=4096,255}
+{DISASM_BIN=0}
+{CLOCK=16MHz}
+ ¦(  å  J     ¬
+  -      @   8   "    Àž  t‘  t‘ ÈÈª kCOMPONENT  <ºÿˆL¸ÿ    ðf Øv 0   4                     $MKRORIGIN          @   8   "    Àž  hgg  hgg ÈÈª kCOMPONENT ÈË¨ÿ¨
+     € P! @   8   "    Àž           ÈÈª kCOMPONENT @|²ÿHÍÇÿ     A À€ @   8   "    Àž           ÈÈª kCOMPONENT ŸìÿŸìÿ    àÁ& °á" <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  >Ùÿh 8.Ûÿ81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT 8.Ûÿ81 HÐ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT HÐ 81 `À h l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @ðÿh     
+    ¦ À Default Font                       PWM <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   h ¨
+ 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¨
+ 81 @‚. 81 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. 81 pb2 h <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT Ð": è<  B6 ¸28 <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ¸28  B6 Q u   m   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € h     
+    ¦ À Default Font                       COMUNICATION p   h   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6   „  
+ Èª ¦ À Default Font                     É DIGITAL <   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 ð  B6 @ðÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  B6 @ðÿàÁ& PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& PÝÿàÁ& 0ÝÅÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& 0ÝÅÿ¢*  ýÁÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ˜ñ   >Ùÿ€ PÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € PÝÿÈÎæÿPÝÿ<   4    "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ÈÎæÿPÝÿ˜îâÿ >Ùÿr   j   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT èþÿ€þàÿ    
+    ¦ À Default Font                       ANALOG IN s   k   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT             
+ Èªˆ¶ À Default Font                     É ATMEGA1280 @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT à¾èÿ(îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿð` |ü  0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT ð` (îÿ    0à € @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT @ðÿŸìÿ|ü  0à € k   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT   ø±( „  
+   0à À Default Font                       TX l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT  A °á" „  
+   0à À Default Font                       TX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT € @‚. „  
+   0à À Default Font                       TX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT àÁ& ø±( „  
+   0à À Default Font                       TX1 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT @‚. ¢* „  
+   0à À Default Font                       SDA l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT pb2 ¢* „  
+   0à À Default Font                       SCL k   c   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT À€ ÈÑ$ „  
+   0à À Default Font                       RX l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT P! ÈÑ$ „  
+   0à À Default Font                       RX3 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT °á" @‚. „  
+   0à À Default Font                       RX2 l   d   "    Àž  ÿÿÿ  ÈÈª ÈÈª {COMPONENT ¢* ø±( „  
+   0à À Default Font                       RX1 @   8   "    Àž  îÑ  îÑ ÈÈª kCOMPONENT P·ÐÿHÍÇÿ    ¸–  Ú
+ @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT À}Ñÿ 
+Óÿ    Ø	 ¨) @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT À}Ñÿh@Æÿ     ¦ ¨) @   8   "    Àž  îÑ  îÑ ÈÈª kCOMPONENT èÚØÿHÍÇÿ    ¸–  Ú
+ @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT X¡Ùÿ 
+Óÿ    Ø	 ¨) @   8   "    Àž  ÀÀÀ  ÀÀÀ ÈÈª kCOMPONENT X¡Ùÿh@Æÿ     ¦ ¨)   pb2 `ÃE „ $PINDEFAULT PD0/SCL/INT0 21   @‚. `ÃE „ $PINDEFAULT PD1/SDA/INT1 20   ¢* `ÃE „ $PINDEFAULT PD2/RXD1/INT2 19   àÁ& `ÃE „ $PINDEFAULT PD3/TXD1/INT3 18   °á" `ÃE „ $PINDEFAULT PH0/RXD2 17   € `ÃE „ $PINDEFAULT PH1/TXD2 16   P! `ÃE „ $PINDEFAULT PJ0/RXD3/PCINT9 15    A `ÃE „ $PINDEFAULT PJ1/TXD3/PCINT10 14   À€ `ÃE „ $PINDEFAULT PE0/RXD0/PCINT8 0     `ÃE „ $PINDEFAULT PE1/TXD0/PDO 1   `À `ÃE „ $PINDEFAULT PE4/OC3B/INT4 2   0à `ÃE „ $PINDEFAULT PE5/OC3C/INT5 3       `ÃE „ $PINDEFAULT PG5/OC0B 4   Ðüÿ`ÃE „ $PINDEFAULT PE3/OC3A/AIN1 5    ?øÿ`ÃE „ $PINDEFAULT PH3/OC4A 6   p_ôÿ`ÃE „ $PINDEFAULT PH4/OC4B 7   Ÿìÿ`ÃE „ $PINDEFAULT PH5/OC4C 8   à¾èÿ`ÃE „ $PINDEFAULT PH6/OC2B 9   °Þäÿ`ÃE „ $PINDEFAULT PB4/OC2A/PCINT4 10   €þàÿ`ÃE „ $PINDEFAULT PB5/OC1A/PCINT5 11   PÝÿ`ÃE „ $PINDEFAULT PB6/OC1B/PCINT6 12    >Ùÿ`ÃE „ $PINDEFAULT PB7/OC0A/OC1C/PCINT7 13   À}Ñÿ`ÃE |ü  $PINDEFAULT AREF 98   £I è<    $PINDEFAULT PA0/AD0 22   £I ¸28    $PINDEFAULT PA1/AD1 23   £I ˆR4    $PINDEFAULT PA2/AD2 24   £I Xr0    $PINDEFAULT PA3/AD3 25   £I (’,    $PINDEFAULT PA4/AD4 26   £I ø±(    $PINDEFAULT PA5/AD5 27   £I ÈÑ$    $PINDEFAULT PA6/AD6 28   £I ˜ñ     $PINDEFAULT PA7/AD7 29   £I 81    $PINDEFAULT PC6/A14 31   £I Q    $PINDEFAULT PC5/A13 32   £I Øp    $PINDEFAULT PC4/A12 33   £I ¨
+    $PINDEFAULT PC3/A11 34   £I x°	    $PINDEFAULT PC2/A10 35   £I HÐ    $PINDEFAULT PC1/A9 36   £I ð    $PINDEFAULT PC0/A8 37   £I èþÿ   $PINDEFAULT PD7/T0 38   £I ¸/úÿ   $PINDEFAULT PG2/ALE 39   £I ˆOöÿ   $PINDEFAULT PG1/$RD$ 40   £I Xoòÿ   $PINDEFAULT PG0/$WR$ 41   £I (îÿ   $PINDEFAULT PL7 42   £I ø®êÿ   $PINDEFAULT PL6 43   £I ÈÎæÿ   $PINDEFAULT PL5/OC5C 44   £I ˜îâÿ   $PINDEFAULT PL4/OC5B 45   £I hßÿ   $PINDEFAULT PL3/OC5A 46   £I 8.Ûÿ   $PINDEFAULT PL2/T5 47   £I N×ÿ   $PINDEFAULT PL1/ICP5 48   £I ØmÓÿ   $PINDEFAULT PL0/ICP4 49   £I ¨Ïÿ   $PINDEFAULT PB3/MISO/PCINT3 50   £I x­Ëÿ   $PINDEFAULT PB2/MOSI/PCINT2 51   £I HÍÇÿ   $PINDEFAULT PB1/SCK/PCINT1 52   £I íÃÿ   $PINDEFAULT PB0/$SS$/PCINT0 53   ˜ñ  ˆL¸ÿ|ü $PINDEFAULT PK7/ADC15/PCINT23 A15   h ˆL¸ÿ|ü $PINDEFAULT PK6/ADC14/PCINT22 A14   81 ˆL¸ÿ|ü $PINDEFAULT PK5/ADC13/PCINT21 A13   Q ˆL¸ÿ|ü $PINDEFAULT PK4/ADC12/PCINT20 A12   Øp ˆL¸ÿ|ü $PINDEFAULT PK3/ADC11/PCINT19 A11   ¨
+ ˆL¸ÿ|ü $PINDEFAULT PK2/ADC10/PCINT18 A10   x°	 ˆL¸ÿ|ü $PINDEFAULT PK1/ADC9/PCINT17 A9   HÐ ˆL¸ÿ|ü $PINDEFAULT PK0/ADC8/PCINT16 A8   XoòÿˆL¸ÿ|ü $PINDEFAULT PF7/ADC7/TDI A7   ˆOöÿˆL¸ÿ|ü $PINDEFAULT PF6/ADC6/TDO A6   ¸/úÿˆL¸ÿ|ü $PINDEFAULT PF5/ADC5/TMS A5   èþÿˆL¸ÿ|ü $PINDEFAULT PF4/ADC4/TCK A4   (îÿˆL¸ÿ|ü $PINDEFAULT PF3/ADC3 A3   ø®êÿˆL¸ÿ|ü $PINDEFAULT PF2/ADC2 A2   ÈÎæÿˆL¸ÿ|ü $PINDEFAULT PF1/ADC1 A1   ˜îâÿˆL¸ÿ|ü $PINDEFAULT PF0/ADC0 A0   ¨ÏÿˆL¸ÿ„ $PINDEFAULT $RESET$ 54   £I h    $PINDEFAULT PC7/A15 30   N×ÿˆL¸ÿ„  $PINDEFAULT VCC 55   8.ÛÿˆL¸ÿ„  $PINDEFAULT GND 56 ½  {*DEVICE}
+{PREFIX=ARD}
+{*PROPDEFS}
+{ARDUINOMEGA1280="",READONLY STRING}
+{PRIMITIVE="Primitive Type",HIDDEN STRING}
+{MODDLL="VSM Model DLL",HIDDEN STRING}
+{ITFMOD="Interface Model",HIDDEN STRING}
+{PROGRAM="PROGRAM FILE",FILENAME,FALSE,,HEX, UBROF, COFF, ELF or OBJ Files/*.hex;*.d90;*.cof;*.elf;*.obj}
+{TRACE_DEFAULT="Default Tracemode",HIDDEN TRACEMODE}
+{TRACE_SETUP="Model Initialization",HIDDEN TRACEMODE}
+{TRACE_LOAD="Program Loader",HIDDEN TRACEMODE}
+{TRACE_CPU="Instruction Execution",HIDDEN TRACEMODE}
+{CODEGEN="Default Build Tool",HIDDEN STRING}
+{CLKDIV8="CLKDIV8 (Divide clock by 8)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKOUT="CKOUT (Clock output)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{WDTON="WDTON (Watchdog timer always on)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{BOOTRST="BOOTRST (Select Reset Vector)",KWDLIST,2,1="(1) Unprogrammed",0="(0) Programmed"}
+{CKSEL="CKSEL Fuses",KWDLIST,15,0="(0000) Ext. Clock",2="(0010) Int. RC Osc. 8MHz",3="(0011) Int. 128kHz RC Osc.",4="(0100) Ext. Low-Freq. Crystal",5="(0101) Ext. Low-Freq. Crystal",6="(0110) Full Swing Osc.",7="(0111) Full Swing Osc.",8="(1000) Ext. Crystal 0.4-0.9MHz",9="(1001) Ext. Crystal 0.4-0.9MHz",10="(1010) Ext. Crystal 0.9-3.0MHz",11="(1011) Ext. Crystal 0.9-3.0MHz",12="(1100) Ext. Crystal 3.0-8.0MHz",13="(1101) Ext. Crystal 3.0-8.0MHz",14="(1110) Ext. Crystal 8.0-MHz",15="(1111) Ext. Crystal 8.0-MHz"}
+{BOOTSZ="Boot Loader Size",KWDLIST,4,0="(00) 4096 words. Starts at 0x1F000",1="(01) 2408 words. Starts at 0x1F800",2="(10) 1024 words. Starts at 0x1FC00",3="(11) 512 words. Starts at 0x1FE00"}
+{SUT="SUT Fuses",KWDLIST,4,0="(00)",1="(01)",2="(10)",3="(11)"}
+{MODDATA="Persistent Model Data",HIDDEN STRING}
+{DISASM_BIN="Disassemble Binary Code",ADVANCED YESNO}
+{TRACE_SLEEP="Sleep/Wake Events",HIDDEN STRING}
+{TRACE_INTERRUPT="Interrupt Events",HIDDEN STRING}
+{TRACE_MEMORY="Memory Access",HIDDEN STRING}
+{CLOCK="Clock Frequency",FLOAT,PNZ}
+{TRACE_ADC="ADC Module",HIDDEN TRACEMODE}
+{TRACE_ACO="Analog Comparator Module",HIDDEN TRACEMODE}
+{TRACE_EEPROM="EEPROM Module",HIDDEN TRACEMODE}
+{TRACE_EXTERNAL_INTERRUPT="External Interrupts Module",HIDDEN TRACEMODE}
+{TRACE_PORTA="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTB="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTC="Port C Module",HIDDEN TRACEMODE}
+{TRACE_PORTD="Port D Module",HIDDEN TRACEMODE}
+{TRACE_PORTE="Port E Module",HIDDEN TRACEMODE}
+{TRACE_PORTF="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTG="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTH="Port L Module",HIDDEN TRACEMODE}
+{TRACE_PORTJ="Port J Module",HIDDEN TRACEMODE}
+{TRACE_PORTK="Port K Module",HIDDEN TRACEMODE}
+{TRACE_PORTL="Port L Module",HIDDEN TRACEMODE}
+{TRACE_SPI="SPI Module",HIDDEN TRACEMODE}
+{TRACE_TIMER0="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER1="Timer 1 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER2="Timer 2 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER3="Timer 3 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER4="Timer 4 Module",HIDDEN TRACEMODE}
+{TRACE_TIMER5="Timer 5 Module",HIDDEN TRACEMODE}
+{TRACE_TWI="TWI Module",HIDDEN TRACEMODE}
+{TRACE_USART0="USART 0 Module",HIDDEN TRACEMODE}
+{TRACE_USART1="USART 1 Module",HIDDEN TRACEMODE}
+{TRACE_USART2="USART 2 Module",HIDDEN TRACEMODE}
+{TRACE_USART3="USART 3 Module",HIDDEN TRACEMODE}
+{TRACE_WATCHDOG="Watchdog Timer Module",HIDDEN TRACEMODE}
+{MODFILE="Initial Contents Of Data EEPROM",ADVANCED FILENAME,FALSE,,Binary Image Files/*.bin}
+{ARD="MEGA1280",READONLY STRING}
+{*INDEX}
+{CAT=Emulator}
+{SUBCAT=ATMEGA}
+{MFR=}
+{DESC=Arduino MEGA (ATmega1280)}
+{*COMPONENT}
+{PRIMITIVE=DIGITAL,ATMEGA1280}
+{MODDLL=AVR2.DLL}
+{ITFMOD=AVR}
+{TRACE_DEFAULT=1}
+{CODEGEN=AVRASM2}
+{CLKDIV8=1}
+{CKOUT=1}
+{WDTON=1}
+{BOOTRST=1}
+{CKSEL=0}
+{BOOTSZ=0}
+{SUT=0}
+{MODDATA=4096,255}
+{DISASM_BIN=0}
+{CLOCK=16MHz}
+ 
