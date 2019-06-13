@@ -47,3 +47,38 @@ Output
 If you can cancel k or less flights in such a way that it is not possible to reach C at all, print −1.
 
 Otherwise print the earliest time Arkady can arrive at C if you cancel k flights in such a way that maximizes this time.
+
+
+
+
+
+
+C. Crazy Diamond
+time limit per test3 seconds
+memory limit per test256 megabytes
+inputstandard input
+outputstandard output
+You are given a permutation p of integers from 1 to n, where n is an even number.
+
+Your goal is to sort the permutation. To do so, you can perform zero or more operations of the following type:
+
+take two indices i and j such that 2⋅|i−j|≥n and swap pi and pj.
+There is no need to minimize the number of operations, however you should use no more than 5⋅n operations. One can show that it is always possible to do that.
+
+Input
+The first line contains a single integer n (2≤n≤3⋅105, n is even) — the length of the permutation.
+
+The second line contains n distinct integers p1,p2,…,pn (1≤pi≤n) — the given permutation.
+
+Output
+On the first line print m (0≤m≤5⋅n) — the number of swaps to perform.
+
+Each of the following m lines should contain integers ai,bi (1≤ai,bi≤n, |ai−bi|≥n2) — the indices that should be swapped in the corresponding swap.
+
+Note that there is no need to minimize the number of operations. We can show that an answer always exists.
+
+
+
+
+
+
