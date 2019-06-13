@@ -113,5 +113,34 @@ Then print t distinct integers i1,i2,…,it — the indexes of pairs in the corr
 
 
 
+E. Earth Wind and Fire
+time limit per test4 seconds
+memory limit per test256 megabytes
+inputstandard input
+outputstandard output
+There are n stones arranged on an axis. Initially the i-th stone is located at the coordinate si. There may be more than one stone in a single place.
+
+You can perform zero or more operations of the following type:
+
+take two stones with indices i and j so that si≤sj, choose an integer d (0≤2⋅d≤sj−si), and replace the coordinate si with (si+d) and replace coordinate sj with (sj−d). In other words, draw stones closer to each other.
+You want to move the stones so that they are located at positions t1,t2,…,tn. The order of the stones is not important — you just want for the multiset of the stones resulting positions to be the same as the multiset of t1,t2,…,tn.
+
+Detect whether it is possible to move the stones this way, and if yes, construct a way to do so. You don't need to minimize the number of moves.
+
+Input
+The first line contains a single integer n (1≤n≤3⋅105) – the number of stones.
+
+The second line contains integers s1,s2,…,sn (1≤si≤109) — the initial positions of the stones.
+
+The second line contains integers t1,t2,…,tn (1≤ti≤109) — the target positions of the stones.
+
+Output
+If it is impossible to move the stones this way, print "NO".
+
+Otherwise, on the first line print "YES", on the second line print the number of operations m (0≤m≤5⋅n) required. You don't have to minimize the number of operations.
+
+Then print m lines, each containing integers i,j,d (1≤i,j≤n, si≤sj, 0≤2⋅d≤sj−si), defining the operations.
+
+One can show that if an answer exists, there is an answer requiring no more than 5⋅n operations.
 
 
