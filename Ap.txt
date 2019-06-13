@@ -81,4 +81,37 @@ Note that there is no need to minimize the number of operations. We can show tha
 
 
 
+D. Dirty Deeds Done Dirt Cheap
+time limit per test3 seconds
+memory limit per test256 megabytes
+inputstandard input
+outputstandard output
+You are given n pairs of integers (a1,b1),(a2,b2),…,(an,bn). All of the integers in the pairs are distinct and are in the range from 1 to 2⋅n inclusive.
+
+Let's call a sequence of integers x1,x2,…,x2k good if either
+
+x1<x2>x3<…<x2k−2>x2k−1<x2k, or
+x1>x2<x3>…>x2k−2<x2k−1>x2k.
+You need to choose a subset of distinct indices i1,i2,…,it and their order in a way that if you write down all numbers from the pairs in a single sequence (the sequence would be ai1,bi1,ai2,bi2,…,ait,bit), this sequence is good.
+
+What is the largest subset of indices you can choose? You also need to construct the corresponding index sequence i1,i2,…,it.
+
+Input
+The first line contains single integer n (2≤n≤3⋅105) — the number of pairs.
+
+Each of the next n lines contain two numbers — ai and bi (1≤ai,bi≤2⋅n) — the elements of the pairs.
+
+It is guaranteed that all integers in the pairs are distinct, that is, every integer from 1 to 2⋅n is mentioned exactly once.
+
+Output
+In the first line print a single integer t — the number of pairs in the answer.
+
+Then print t distinct integers i1,i2,…,it — the indexes of pairs in the corresponding order.
+
+
+
+
+
+
+
 
