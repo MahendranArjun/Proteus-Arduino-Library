@@ -14,3 +14,36 @@ The first line contains three positive integers a, b, c (1≤a,b,c≤109) — th
 
 Output
 Print a single number — the maximum possible length of the good string you can obtain.
+
+
+
+
+
+B. Born This Way
+time limit per test1 second
+memory limit per test256 megabytes
+inputstandard input
+outputstandard output
+Arkady bought an air ticket from a city A to a city C. Unfortunately, there are no direct flights, but there are a lot of flights from A to a city B, and from B to C.
+
+There are n flights from A to B, they depart at time moments a1, a2, a3, ..., an and arrive at B ta moments later.
+
+There are m flights from B to C, they depart at time moments b1, b2, b3, ..., bm and arrive at C tb moments later.
+
+The connection time is negligible, so one can use the i-th flight from A to B and the j-th flight from B to C if and only if bj≥ai+ta.
+
+You can cancel at most k flights. If you cancel a flight, Arkady can not use it.
+
+Arkady wants to be in C as early as possible, while you want him to be in C as late as possible. Find the earliest time Arkady can arrive at C, if you optimally cancel k flights. If you can cancel k or less flights in such a way that it is not possible to reach C at all, print −1.
+
+Input
+The first line contains five integers n, m, ta, tb and k (1≤n,m≤2⋅105, 1≤k≤n+m, 1≤ta,tb≤109) — the number of flights from A to B, the number of flights from B to C, the flight time from A to B, the flight time from B to C and the number of flights you can cancel, respectively.
+
+The second line contains n distinct integers in increasing order a1, a2, a3, ..., an (1≤a1<a2<…<an≤109) — the times the flights from A to B depart.
+
+The third line contains m distinct integers in increasing order b1, b2, b3, ..., bm (1≤b1<b2<…<bm≤109) — the times the flights from B to C depart.
+
+Output
+If you can cancel k or less flights in such a way that it is not possible to reach C at all, print −1.
+
+Otherwise print the earliest time Arkady can arrive at C if you cancel k flights in such a way that maximizes this time.
